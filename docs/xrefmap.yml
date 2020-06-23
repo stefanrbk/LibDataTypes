@@ -3,13 +3,13 @@ sorted: true
 references:
 - uid: System
   name: System
-  href: api/System.yml
+  href: api/System.html
   commentId: N:System
   fullName: System
   nameWithType: System
 - uid: System.Half
   name: Half
-  href: api/System.Half.yml
+  href: api/System.Half.html
   commentId: T:System.Half
   fullName: System.Half
   nameWithType: Half
