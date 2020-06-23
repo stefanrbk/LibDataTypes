@@ -43,6 +43,7 @@
           "apidoc/**.md"
         ],
         "exclude": [
+          ".editorconfig",
           "obj/**",
           "docs/**"
         ]
@@ -52,7 +53,7 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "templates/darkfx"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",

@@ -1,0 +1,15 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: System
+  name: System
+  href: api/System.yml
+  commentId: N:System
+  fullName: System
+  nameWithType: System
+- uid: System.Half
+  name: Half
+  href: api/System.Half.yml
+  commentId: T:System.Half
+  fullName: System.Half
+  nameWithType: Half
