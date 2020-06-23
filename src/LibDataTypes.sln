@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNumericTypes", "src\LibNumericTypes\LibNumericTypes.csproj", "{36964BC9-89D9-494A-B2E1-1F479174EC78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D56ED34B-F288-40CD-9B5E-B8567C99325E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36964BC9-89D9-494A-B2E1-1F479174EC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36964BC9-89D9-494A-B2E1-1F479174EC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36964BC9-89D9-494A-B2E1-1F479174EC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36964BC9-89D9-494A-B2E1-1F479174EC78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{36964BC9-89D9-494A-B2E1-1F479174EC78} = {D56ED34B-F288-40CD-9B5E-B8567C99325E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF78AF4-6546-4F81-B851-F3145436E527}
+	EndGlobalSection
+EndGlobal
