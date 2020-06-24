@@ -13,19 +13,6 @@ references:
   commentId: T:System.Half
   fullName: System.Half
   nameWithType: Half
-- uid: System.Half.Abs(System.Half)
-  name: Abs(Half)
-  href: api/System.Half.html#System_Half_Abs_System_Half_
-  commentId: M:System.Half.Abs(System.Half)
-  fullName: System.Half.Abs(System.Half)
-  nameWithType: Half.Abs(Half)
-- uid: System.Half.Abs*
-  name: Abs
-  href: api/System.Half.html#System_Half_Abs_
-  commentId: Overload:System.Half.Abs
-  isSpec: "True"
-  fullName: System.Half.Abs
-  nameWithType: Half.Abs
 - uid: System.Half.CompareTo(System.Half)
   name: CompareTo(Half)
   href: api/System.Half.html#System_Half_CompareTo_System_Half_
@@ -77,12 +64,6 @@ references:
   isSpec: "True"
   fullName: System.Half.Equals
   nameWithType: Half.Equals
-- uid: System.Half.ExponentMask
-  name: ExponentMask
-  href: api/System.Half.html#System_Half_ExponentMask
-  commentId: F:System.Half.ExponentMask
-  fullName: System.Half.ExponentMask
-  nameWithType: Half.ExponentMask
 - uid: System.Half.GetBytes(System.Half)
   name: GetBytes(Half)
   href: api/System.Half.html#System_Half_GetBytes_System_Half_
@@ -96,19 +77,6 @@ references:
   isSpec: "True"
   fullName: System.Half.GetBytes
   nameWithType: Half.GetBytes
-- uid: System.Half.GetExponent
-  name: GetExponent()
-  href: api/System.Half.html#System_Half_GetExponent
-  commentId: M:System.Half.GetExponent
-  fullName: System.Half.GetExponent()
-  nameWithType: Half.GetExponent()
-- uid: System.Half.GetExponent*
-  name: GetExponent
-  href: api/System.Half.html#System_Half_GetExponent_
-  commentId: Overload:System.Half.GetExponent
-  isSpec: "True"
-  fullName: System.Half.GetExponent
-  nameWithType: Half.GetExponent
 - uid: System.Half.GetHashCode
   name: GetHashCode()
   href: api/System.Half.html#System_Half_GetHashCode
@@ -122,32 +90,6 @@ references:
   isSpec: "True"
   fullName: System.Half.GetHashCode
   nameWithType: Half.GetHashCode
-- uid: System.Half.GetMantissa
-  name: GetMantissa()
-  href: api/System.Half.html#System_Half_GetMantissa
-  commentId: M:System.Half.GetMantissa
-  fullName: System.Half.GetMantissa()
-  nameWithType: Half.GetMantissa()
-- uid: System.Half.GetMantissa*
-  name: GetMantissa
-  href: api/System.Half.html#System_Half_GetMantissa_
-  commentId: Overload:System.Half.GetMantissa
-  isSpec: "True"
-  fullName: System.Half.GetMantissa
-  nameWithType: Half.GetMantissa
-- uid: System.Half.GetSign
-  name: GetSign()
-  href: api/System.Half.html#System_Half_GetSign
-  commentId: M:System.Half.GetSign
-  fullName: System.Half.GetSign()
-  nameWithType: Half.GetSign()
-- uid: System.Half.GetSign*
-  name: GetSign
-  href: api/System.Half.html#System_Half_GetSign_
-  commentId: Overload:System.Half.GetSign
-  isSpec: "True"
-  fullName: System.Half.GetSign
-  nameWithType: Half.GetSign
 - uid: System.Half.GetTypeCode
   name: GetTypeCode()
   href: api/System.Half.html#System_Half_GetTypeCode
@@ -265,12 +207,6 @@ references:
   isSpec: "True"
   fullName: System.Half.IsSubnormal
   nameWithType: Half.IsSubnormal
-- uid: System.Half.MantissaMask
-  name: MantissaMask
-  href: api/System.Half.html#System_Half_MantissaMask
-  commentId: F:System.Half.MantissaMask
-  fullName: System.Half.MantissaMask
-  nameWithType: Half.MantissaMask
 - uid: System.Half.MaxValue
   name: MaxValue
   href: api/System.Half.html#System_Half_MaxValue
@@ -820,12 +756,6 @@ references:
   isSpec: "True"
   fullName: System.Half.PositiveInfinity
   nameWithType: Half.PositiveInfinity
-- uid: System.Half.SignMask
-  name: SignMask
-  href: api/System.Half.html#System_Half_SignMask
-  commentId: F:System.Half.SignMask
-  fullName: System.Half.SignMask
-  nameWithType: Half.SignMask
 - uid: System.Half.SizeOf
   name: SizeOf
   href: api/System.Half.html#System_Half_SizeOf
@@ -1214,3 +1144,646 @@ references:
   isSpec: "True"
   fullName: System.Half.TryParse
   nameWithType: Half.TryParse
+- uid: System.HalfExtensions
+  name: HalfExtensions
+  href: api/System.HalfExtensions.html
+  commentId: T:System.HalfExtensions
+  fullName: System.HalfExtensions
+  nameWithType: HalfExtensions
+- uid: System.HalfExtensions.Average(System.Collections.Generic.IEnumerable{System.Half})
+  name: Average(IEnumerable<Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Average_System_Collections_Generic_IEnumerable_System_Half__
+  commentId: M:System.HalfExtensions.Average(System.Collections.Generic.IEnumerable{System.Half})
+  name.vb: Average(IEnumerable(Of Half))
+  fullName: System.HalfExtensions.Average(System.Collections.Generic.IEnumerable<System.Half>)
+  fullName.vb: System.HalfExtensions.Average(System.Collections.Generic.IEnumerable(Of System.Half))
+  nameWithType: HalfExtensions.Average(IEnumerable<Half>)
+  nameWithType.vb: HalfExtensions.Average(IEnumerable(Of Half))
+- uid: System.HalfExtensions.Average(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name: Average(IEnumerable<Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Average_System_Collections_Generic_IEnumerable_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Average(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name.vb: Average(IEnumerable(Of Nullable(Of Half)))
+  fullName: System.HalfExtensions.Average(System.Collections.Generic.IEnumerable<System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Average(System.Collections.Generic.IEnumerable(Of System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Average(IEnumerable<Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Average(IEnumerable(Of Nullable(Of Half)))
+- uid: System.HalfExtensions.Average*
+  name: Average
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Average_
+  commentId: Overload:System.HalfExtensions.Average
+  isSpec: "True"
+  fullName: System.HalfExtensions.Average
+  nameWithType: HalfExtensions.Average
+- uid: System.HalfExtensions.Average``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name: Average<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Average__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Half__
+  commentId: M:System.HalfExtensions.Average``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name.vb: Average(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+  fullName: System.HalfExtensions.Average<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Half>)
+  fullName.vb: System.HalfExtensions.Average(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Half))
+  nameWithType: HalfExtensions.Average<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  nameWithType.vb: HalfExtensions.Average(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+- uid: System.HalfExtensions.Average``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name: Average<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Average__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Average``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name.vb: Average(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+  fullName: System.HalfExtensions.Average<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Average(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Average<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Average(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+- uid: System.HalfExtensions.Max(System.Collections.Generic.IEnumerable{System.Half})
+  name: Max(IEnumerable<Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Max_System_Collections_Generic_IEnumerable_System_Half__
+  commentId: M:System.HalfExtensions.Max(System.Collections.Generic.IEnumerable{System.Half})
+  name.vb: Max(IEnumerable(Of Half))
+  fullName: System.HalfExtensions.Max(System.Collections.Generic.IEnumerable<System.Half>)
+  fullName.vb: System.HalfExtensions.Max(System.Collections.Generic.IEnumerable(Of System.Half))
+  nameWithType: HalfExtensions.Max(IEnumerable<Half>)
+  nameWithType.vb: HalfExtensions.Max(IEnumerable(Of Half))
+- uid: System.HalfExtensions.Max(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name: Max(IEnumerable<Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Max_System_Collections_Generic_IEnumerable_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Max(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name.vb: Max(IEnumerable(Of Nullable(Of Half)))
+  fullName: System.HalfExtensions.Max(System.Collections.Generic.IEnumerable<System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Max(System.Collections.Generic.IEnumerable(Of System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Max(IEnumerable<Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Max(IEnumerable(Of Nullable(Of Half)))
+- uid: System.HalfExtensions.Max*
+  name: Max
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Max_
+  commentId: Overload:System.HalfExtensions.Max
+  isSpec: "True"
+  fullName: System.HalfExtensions.Max
+  nameWithType: HalfExtensions.Max
+- uid: System.HalfExtensions.Max``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name: Max<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Max__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Half__
+  commentId: M:System.HalfExtensions.Max``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name.vb: Max(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+  fullName: System.HalfExtensions.Max<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Half>)
+  fullName.vb: System.HalfExtensions.Max(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Half))
+  nameWithType: HalfExtensions.Max<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  nameWithType.vb: HalfExtensions.Max(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+- uid: System.HalfExtensions.Max``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name: Max<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Max__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Max``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name.vb: Max(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+  fullName: System.HalfExtensions.Max<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Max(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Max<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Max(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+- uid: System.HalfExtensions.Min(System.Collections.Generic.IEnumerable{System.Half})
+  name: Min(IEnumerable<Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Min_System_Collections_Generic_IEnumerable_System_Half__
+  commentId: M:System.HalfExtensions.Min(System.Collections.Generic.IEnumerable{System.Half})
+  name.vb: Min(IEnumerable(Of Half))
+  fullName: System.HalfExtensions.Min(System.Collections.Generic.IEnumerable<System.Half>)
+  fullName.vb: System.HalfExtensions.Min(System.Collections.Generic.IEnumerable(Of System.Half))
+  nameWithType: HalfExtensions.Min(IEnumerable<Half>)
+  nameWithType.vb: HalfExtensions.Min(IEnumerable(Of Half))
+- uid: System.HalfExtensions.Min(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name: Min(IEnumerable<Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Min_System_Collections_Generic_IEnumerable_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Min(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name.vb: Min(IEnumerable(Of Nullable(Of Half)))
+  fullName: System.HalfExtensions.Min(System.Collections.Generic.IEnumerable<System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Min(System.Collections.Generic.IEnumerable(Of System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Min(IEnumerable<Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Min(IEnumerable(Of Nullable(Of Half)))
+- uid: System.HalfExtensions.Min*
+  name: Min
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Min_
+  commentId: Overload:System.HalfExtensions.Min
+  isSpec: "True"
+  fullName: System.HalfExtensions.Min
+  nameWithType: HalfExtensions.Min
+- uid: System.HalfExtensions.Min``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name: Min<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Min__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Half__
+  commentId: M:System.HalfExtensions.Min``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name.vb: Min(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+  fullName: System.HalfExtensions.Min<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Half>)
+  fullName.vb: System.HalfExtensions.Min(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Half))
+  nameWithType: HalfExtensions.Min<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  nameWithType.vb: HalfExtensions.Min(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+- uid: System.HalfExtensions.Min``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name: Min<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Min__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Min``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name.vb: Min(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+  fullName: System.HalfExtensions.Min<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Min(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Min<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Min(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+- uid: System.HalfExtensions.ReadHalf(System.IO.BinaryReader)
+  name: ReadHalf(BinaryReader)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_ReadHalf_System_IO_BinaryReader_
+  commentId: M:System.HalfExtensions.ReadHalf(System.IO.BinaryReader)
+  fullName: System.HalfExtensions.ReadHalf(System.IO.BinaryReader)
+  nameWithType: HalfExtensions.ReadHalf(BinaryReader)
+- uid: System.HalfExtensions.ReadHalf*
+  name: ReadHalf
+  href: api/System.HalfExtensions.html#System_HalfExtensions_ReadHalf_
+  commentId: Overload:System.HalfExtensions.ReadHalf
+  isSpec: "True"
+  fullName: System.HalfExtensions.ReadHalf
+  nameWithType: HalfExtensions.ReadHalf
+- uid: System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable{System.Half})
+  name: Sum(IEnumerable<Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Sum_System_Collections_Generic_IEnumerable_System_Half__
+  commentId: M:System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable{System.Half})
+  name.vb: Sum(IEnumerable(Of Half))
+  fullName: System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable<System.Half>)
+  fullName.vb: System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable(Of System.Half))
+  nameWithType: HalfExtensions.Sum(IEnumerable<Half>)
+  nameWithType.vb: HalfExtensions.Sum(IEnumerable(Of Half))
+- uid: System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name: Sum(IEnumerable<Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Sum_System_Collections_Generic_IEnumerable_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable{System.Nullable{System.Half}})
+  name.vb: Sum(IEnumerable(Of Nullable(Of Half)))
+  fullName: System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable<System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Sum(System.Collections.Generic.IEnumerable(Of System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Sum(IEnumerable<Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Sum(IEnumerable(Of Nullable(Of Half)))
+- uid: System.HalfExtensions.Sum*
+  name: Sum
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Sum_
+  commentId: Overload:System.HalfExtensions.Sum
+  isSpec: "True"
+  fullName: System.HalfExtensions.Sum
+  nameWithType: HalfExtensions.Sum
+- uid: System.HalfExtensions.Sum``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name: Sum<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Sum__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Half__
+  commentId: M:System.HalfExtensions.Sum``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Half})
+  name.vb: Sum(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+  fullName: System.HalfExtensions.Sum<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Half>)
+  fullName.vb: System.HalfExtensions.Sum(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Half))
+  nameWithType: HalfExtensions.Sum<TSource>(IEnumerable<TSource>, Func<TSource, Half>)
+  nameWithType.vb: HalfExtensions.Sum(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Half))
+- uid: System.HalfExtensions.Sum``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name: Sum<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Sum__1_System_Collections_Generic_IEnumerable___0__System_Func___0_System_Nullable_System_Half___
+  commentId: M:System.HalfExtensions.Sum``1(System.Collections.Generic.IEnumerable{``0},System.Func{``0,System.Nullable{System.Half}})
+  name.vb: Sum(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+  fullName: System.HalfExtensions.Sum<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, System.Nullable<System.Half>>)
+  fullName.vb: System.HalfExtensions.Sum(Of TSource)(System.Collections.Generic.IEnumerable(Of TSource), System.Func(Of TSource, System.Nullable(Of System.Half)))
+  nameWithType: HalfExtensions.Sum<TSource>(IEnumerable<TSource>, Func<TSource, Nullable<Half>>)
+  nameWithType.vb: HalfExtensions.Sum(Of TSource)(IEnumerable(Of TSource), Func(Of TSource, Nullable(Of Half)))
+- uid: System.HalfExtensions.Write(System.IO.BinaryWriter,System.Half)
+  name: Write(BinaryWriter, Half)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Write_System_IO_BinaryWriter_System_Half_
+  commentId: M:System.HalfExtensions.Write(System.IO.BinaryWriter,System.Half)
+  fullName: System.HalfExtensions.Write(System.IO.BinaryWriter, System.Half)
+  nameWithType: HalfExtensions.Write(BinaryWriter, Half)
+- uid: System.HalfExtensions.Write(System.IO.TextWriter,System.Half)
+  name: Write(TextWriter, Half)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Write_System_IO_TextWriter_System_Half_
+  commentId: M:System.HalfExtensions.Write(System.IO.TextWriter,System.Half)
+  fullName: System.HalfExtensions.Write(System.IO.TextWriter, System.Half)
+  nameWithType: HalfExtensions.Write(TextWriter, Half)
+- uid: System.HalfExtensions.Write*
+  name: Write
+  href: api/System.HalfExtensions.html#System_HalfExtensions_Write_
+  commentId: Overload:System.HalfExtensions.Write
+  isSpec: "True"
+  fullName: System.HalfExtensions.Write
+  nameWithType: HalfExtensions.Write
+- uid: System.HalfExtensions.WriteLine(System.IO.TextWriter,System.Half)
+  name: WriteLine(TextWriter, Half)
+  href: api/System.HalfExtensions.html#System_HalfExtensions_WriteLine_System_IO_TextWriter_System_Half_
+  commentId: M:System.HalfExtensions.WriteLine(System.IO.TextWriter,System.Half)
+  fullName: System.HalfExtensions.WriteLine(System.IO.TextWriter, System.Half)
+  nameWithType: HalfExtensions.WriteLine(TextWriter, Half)
+- uid: System.HalfExtensions.WriteLine*
+  name: WriteLine
+  href: api/System.HalfExtensions.html#System_HalfExtensions_WriteLine_
+  commentId: Overload:System.HalfExtensions.WriteLine
+  isSpec: "True"
+  fullName: System.HalfExtensions.WriteLine
+  nameWithType: HalfExtensions.WriteLine
+- uid: System.MathH
+  name: MathH
+  href: api/System.MathH.html
+  commentId: T:System.MathH
+  fullName: System.MathH
+  nameWithType: MathH
+- uid: System.MathH.Abs(System.Half)
+  name: Abs(Half)
+  href: api/System.MathH.html#System_MathH_Abs_System_Half_
+  commentId: M:System.MathH.Abs(System.Half)
+  fullName: System.MathH.Abs(System.Half)
+  nameWithType: MathH.Abs(Half)
+- uid: System.MathH.Abs*
+  name: Abs
+  href: api/System.MathH.html#System_MathH_Abs_
+  commentId: Overload:System.MathH.Abs
+  isSpec: "True"
+  fullName: System.MathH.Abs
+  nameWithType: MathH.Abs
+- uid: System.MathH.Acos(System.Half)
+  name: Acos(Half)
+  href: api/System.MathH.html#System_MathH_Acos_System_Half_
+  commentId: M:System.MathH.Acos(System.Half)
+  fullName: System.MathH.Acos(System.Half)
+  nameWithType: MathH.Acos(Half)
+- uid: System.MathH.Acos*
+  name: Acos
+  href: api/System.MathH.html#System_MathH_Acos_
+  commentId: Overload:System.MathH.Acos
+  isSpec: "True"
+  fullName: System.MathH.Acos
+  nameWithType: MathH.Acos
+- uid: System.MathH.Acosh(System.Half)
+  name: Acosh(Half)
+  href: api/System.MathH.html#System_MathH_Acosh_System_Half_
+  commentId: M:System.MathH.Acosh(System.Half)
+  fullName: System.MathH.Acosh(System.Half)
+  nameWithType: MathH.Acosh(Half)
+- uid: System.MathH.Acosh*
+  name: Acosh
+  href: api/System.MathH.html#System_MathH_Acosh_
+  commentId: Overload:System.MathH.Acosh
+  isSpec: "True"
+  fullName: System.MathH.Acosh
+  nameWithType: MathH.Acosh
+- uid: System.MathH.Asin(System.Half)
+  name: Asin(Half)
+  href: api/System.MathH.html#System_MathH_Asin_System_Half_
+  commentId: M:System.MathH.Asin(System.Half)
+  fullName: System.MathH.Asin(System.Half)
+  nameWithType: MathH.Asin(Half)
+- uid: System.MathH.Asin*
+  name: Asin
+  href: api/System.MathH.html#System_MathH_Asin_
+  commentId: Overload:System.MathH.Asin
+  isSpec: "True"
+  fullName: System.MathH.Asin
+  nameWithType: MathH.Asin
+- uid: System.MathH.Asinh(System.Half)
+  name: Asinh(Half)
+  href: api/System.MathH.html#System_MathH_Asinh_System_Half_
+  commentId: M:System.MathH.Asinh(System.Half)
+  fullName: System.MathH.Asinh(System.Half)
+  nameWithType: MathH.Asinh(Half)
+- uid: System.MathH.Asinh*
+  name: Asinh
+  href: api/System.MathH.html#System_MathH_Asinh_
+  commentId: Overload:System.MathH.Asinh
+  isSpec: "True"
+  fullName: System.MathH.Asinh
+  nameWithType: MathH.Asinh
+- uid: System.MathH.Atan(System.Half)
+  name: Atan(Half)
+  href: api/System.MathH.html#System_MathH_Atan_System_Half_
+  commentId: M:System.MathH.Atan(System.Half)
+  fullName: System.MathH.Atan(System.Half)
+  nameWithType: MathH.Atan(Half)
+- uid: System.MathH.Atan*
+  name: Atan
+  href: api/System.MathH.html#System_MathH_Atan_
+  commentId: Overload:System.MathH.Atan
+  isSpec: "True"
+  fullName: System.MathH.Atan
+  nameWithType: MathH.Atan
+- uid: System.MathH.Atan2(System.Half,System.Half)
+  name: Atan2(Half, Half)
+  href: api/System.MathH.html#System_MathH_Atan2_System_Half_System_Half_
+  commentId: M:System.MathH.Atan2(System.Half,System.Half)
+  fullName: System.MathH.Atan2(System.Half, System.Half)
+  nameWithType: MathH.Atan2(Half, Half)
+- uid: System.MathH.Atan2*
+  name: Atan2
+  href: api/System.MathH.html#System_MathH_Atan2_
+  commentId: Overload:System.MathH.Atan2
+  isSpec: "True"
+  fullName: System.MathH.Atan2
+  nameWithType: MathH.Atan2
+- uid: System.MathH.Atanh(System.Half)
+  name: Atanh(Half)
+  href: api/System.MathH.html#System_MathH_Atanh_System_Half_
+  commentId: M:System.MathH.Atanh(System.Half)
+  fullName: System.MathH.Atanh(System.Half)
+  nameWithType: MathH.Atanh(Half)
+- uid: System.MathH.Atanh*
+  name: Atanh
+  href: api/System.MathH.html#System_MathH_Atanh_
+  commentId: Overload:System.MathH.Atanh
+  isSpec: "True"
+  fullName: System.MathH.Atanh
+  nameWithType: MathH.Atanh
+- uid: System.MathH.Cbrt(System.Half)
+  name: Cbrt(Half)
+  href: api/System.MathH.html#System_MathH_Cbrt_System_Half_
+  commentId: M:System.MathH.Cbrt(System.Half)
+  fullName: System.MathH.Cbrt(System.Half)
+  nameWithType: MathH.Cbrt(Half)
+- uid: System.MathH.Cbrt*
+  name: Cbrt
+  href: api/System.MathH.html#System_MathH_Cbrt_
+  commentId: Overload:System.MathH.Cbrt
+  isSpec: "True"
+  fullName: System.MathH.Cbrt
+  nameWithType: MathH.Cbrt
+- uid: System.MathH.Ceiling(System.Half)
+  name: Ceiling(Half)
+  href: api/System.MathH.html#System_MathH_Ceiling_System_Half_
+  commentId: M:System.MathH.Ceiling(System.Half)
+  fullName: System.MathH.Ceiling(System.Half)
+  nameWithType: MathH.Ceiling(Half)
+- uid: System.MathH.Ceiling*
+  name: Ceiling
+  href: api/System.MathH.html#System_MathH_Ceiling_
+  commentId: Overload:System.MathH.Ceiling
+  isSpec: "True"
+  fullName: System.MathH.Ceiling
+  nameWithType: MathH.Ceiling
+- uid: System.MathH.Cos(System.Half)
+  name: Cos(Half)
+  href: api/System.MathH.html#System_MathH_Cos_System_Half_
+  commentId: M:System.MathH.Cos(System.Half)
+  fullName: System.MathH.Cos(System.Half)
+  nameWithType: MathH.Cos(Half)
+- uid: System.MathH.Cos*
+  name: Cos
+  href: api/System.MathH.html#System_MathH_Cos_
+  commentId: Overload:System.MathH.Cos
+  isSpec: "True"
+  fullName: System.MathH.Cos
+  nameWithType: MathH.Cos
+- uid: System.MathH.Cosh(System.Half)
+  name: Cosh(Half)
+  href: api/System.MathH.html#System_MathH_Cosh_System_Half_
+  commentId: M:System.MathH.Cosh(System.Half)
+  fullName: System.MathH.Cosh(System.Half)
+  nameWithType: MathH.Cosh(Half)
+- uid: System.MathH.Cosh*
+  name: Cosh
+  href: api/System.MathH.html#System_MathH_Cosh_
+  commentId: Overload:System.MathH.Cosh
+  isSpec: "True"
+  fullName: System.MathH.Cosh
+  nameWithType: MathH.Cosh
+- uid: System.MathH.E
+  name: E
+  href: api/System.MathH.html#System_MathH_E
+  commentId: P:System.MathH.E
+  fullName: System.MathH.E
+  nameWithType: MathH.E
+- uid: System.MathH.E*
+  name: E
+  href: api/System.MathH.html#System_MathH_E_
+  commentId: Overload:System.MathH.E
+  isSpec: "True"
+  fullName: System.MathH.E
+  nameWithType: MathH.E
+- uid: System.MathH.Exp(System.Half)
+  name: Exp(Half)
+  href: api/System.MathH.html#System_MathH_Exp_System_Half_
+  commentId: M:System.MathH.Exp(System.Half)
+  fullName: System.MathH.Exp(System.Half)
+  nameWithType: MathH.Exp(Half)
+- uid: System.MathH.Exp*
+  name: Exp
+  href: api/System.MathH.html#System_MathH_Exp_
+  commentId: Overload:System.MathH.Exp
+  isSpec: "True"
+  fullName: System.MathH.Exp
+  nameWithType: MathH.Exp
+- uid: System.MathH.Floor(System.Half)
+  name: Floor(Half)
+  href: api/System.MathH.html#System_MathH_Floor_System_Half_
+  commentId: M:System.MathH.Floor(System.Half)
+  fullName: System.MathH.Floor(System.Half)
+  nameWithType: MathH.Floor(Half)
+- uid: System.MathH.Floor*
+  name: Floor
+  href: api/System.MathH.html#System_MathH_Floor_
+  commentId: Overload:System.MathH.Floor
+  isSpec: "True"
+  fullName: System.MathH.Floor
+  nameWithType: MathH.Floor
+- uid: System.MathH.IEEERemainder(System.Half,System.Half)
+  name: IEEERemainder(Half, Half)
+  href: api/System.MathH.html#System_MathH_IEEERemainder_System_Half_System_Half_
+  commentId: M:System.MathH.IEEERemainder(System.Half,System.Half)
+  fullName: System.MathH.IEEERemainder(System.Half, System.Half)
+  nameWithType: MathH.IEEERemainder(Half, Half)
+- uid: System.MathH.IEEERemainder*
+  name: IEEERemainder
+  href: api/System.MathH.html#System_MathH_IEEERemainder_
+  commentId: Overload:System.MathH.IEEERemainder
+  isSpec: "True"
+  fullName: System.MathH.IEEERemainder
+  nameWithType: MathH.IEEERemainder
+- uid: System.MathH.Log(System.Half)
+  name: Log(Half)
+  href: api/System.MathH.html#System_MathH_Log_System_Half_
+  commentId: M:System.MathH.Log(System.Half)
+  fullName: System.MathH.Log(System.Half)
+  nameWithType: MathH.Log(Half)
+- uid: System.MathH.Log(System.Half,System.Half)
+  name: Log(Half, Half)
+  href: api/System.MathH.html#System_MathH_Log_System_Half_System_Half_
+  commentId: M:System.MathH.Log(System.Half,System.Half)
+  fullName: System.MathH.Log(System.Half, System.Half)
+  nameWithType: MathH.Log(Half, Half)
+- uid: System.MathH.Log*
+  name: Log
+  href: api/System.MathH.html#System_MathH_Log_
+  commentId: Overload:System.MathH.Log
+  isSpec: "True"
+  fullName: System.MathH.Log
+  nameWithType: MathH.Log
+- uid: System.MathH.Log10(System.Half)
+  name: Log10(Half)
+  href: api/System.MathH.html#System_MathH_Log10_System_Half_
+  commentId: M:System.MathH.Log10(System.Half)
+  fullName: System.MathH.Log10(System.Half)
+  nameWithType: MathH.Log10(Half)
+- uid: System.MathH.Log10*
+  name: Log10
+  href: api/System.MathH.html#System_MathH_Log10_
+  commentId: Overload:System.MathH.Log10
+  isSpec: "True"
+  fullName: System.MathH.Log10
+  nameWithType: MathH.Log10
+- uid: System.MathH.Max(System.Half,System.Half)
+  name: Max(Half, Half)
+  href: api/System.MathH.html#System_MathH_Max_System_Half_System_Half_
+  commentId: M:System.MathH.Max(System.Half,System.Half)
+  fullName: System.MathH.Max(System.Half, System.Half)
+  nameWithType: MathH.Max(Half, Half)
+- uid: System.MathH.Max*
+  name: Max
+  href: api/System.MathH.html#System_MathH_Max_
+  commentId: Overload:System.MathH.Max
+  isSpec: "True"
+  fullName: System.MathH.Max
+  nameWithType: MathH.Max
+- uid: System.MathH.Min(System.Half,System.Half)
+  name: Min(Half, Half)
+  href: api/System.MathH.html#System_MathH_Min_System_Half_System_Half_
+  commentId: M:System.MathH.Min(System.Half,System.Half)
+  fullName: System.MathH.Min(System.Half, System.Half)
+  nameWithType: MathH.Min(Half, Half)
+- uid: System.MathH.Min*
+  name: Min
+  href: api/System.MathH.html#System_MathH_Min_
+  commentId: Overload:System.MathH.Min
+  isSpec: "True"
+  fullName: System.MathH.Min
+  nameWithType: MathH.Min
+- uid: System.MathH.PI
+  name: PI
+  href: api/System.MathH.html#System_MathH_PI
+  commentId: P:System.MathH.PI
+  fullName: System.MathH.PI
+  nameWithType: MathH.PI
+- uid: System.MathH.PI*
+  name: PI
+  href: api/System.MathH.html#System_MathH_PI_
+  commentId: Overload:System.MathH.PI
+  isSpec: "True"
+  fullName: System.MathH.PI
+  nameWithType: MathH.PI
+- uid: System.MathH.Pow(System.Half,System.Half)
+  name: Pow(Half, Half)
+  href: api/System.MathH.html#System_MathH_Pow_System_Half_System_Half_
+  commentId: M:System.MathH.Pow(System.Half,System.Half)
+  fullName: System.MathH.Pow(System.Half, System.Half)
+  nameWithType: MathH.Pow(Half, Half)
+- uid: System.MathH.Pow*
+  name: Pow
+  href: api/System.MathH.html#System_MathH_Pow_
+  commentId: Overload:System.MathH.Pow
+  isSpec: "True"
+  fullName: System.MathH.Pow
+  nameWithType: MathH.Pow
+- uid: System.MathH.Round(System.Half)
+  name: Round(Half)
+  href: api/System.MathH.html#System_MathH_Round_System_Half_
+  commentId: M:System.MathH.Round(System.Half)
+  fullName: System.MathH.Round(System.Half)
+  nameWithType: MathH.Round(Half)
+- uid: System.MathH.Round(System.Half,System.Int32)
+  name: Round(Half, Int32)
+  href: api/System.MathH.html#System_MathH_Round_System_Half_System_Int32_
+  commentId: M:System.MathH.Round(System.Half,System.Int32)
+  fullName: System.MathH.Round(System.Half, System.Int32)
+  nameWithType: MathH.Round(Half, Int32)
+- uid: System.MathH.Round(System.Half,System.Int32,System.MidpointRounding)
+  name: Round(Half, Int32, MidpointRounding)
+  href: api/System.MathH.html#System_MathH_Round_System_Half_System_Int32_System_MidpointRounding_
+  commentId: M:System.MathH.Round(System.Half,System.Int32,System.MidpointRounding)
+  fullName: System.MathH.Round(System.Half, System.Int32, System.MidpointRounding)
+  nameWithType: MathH.Round(Half, Int32, MidpointRounding)
+- uid: System.MathH.Round(System.Half,System.MidpointRounding)
+  name: Round(Half, MidpointRounding)
+  href: api/System.MathH.html#System_MathH_Round_System_Half_System_MidpointRounding_
+  commentId: M:System.MathH.Round(System.Half,System.MidpointRounding)
+  fullName: System.MathH.Round(System.Half, System.MidpointRounding)
+  nameWithType: MathH.Round(Half, MidpointRounding)
+- uid: System.MathH.Round*
+  name: Round
+  href: api/System.MathH.html#System_MathH_Round_
+  commentId: Overload:System.MathH.Round
+  isSpec: "True"
+  fullName: System.MathH.Round
+  nameWithType: MathH.Round
+- uid: System.MathH.Sign(System.Half)
+  name: Sign(Half)
+  href: api/System.MathH.html#System_MathH_Sign_System_Half_
+  commentId: M:System.MathH.Sign(System.Half)
+  fullName: System.MathH.Sign(System.Half)
+  nameWithType: MathH.Sign(Half)
+- uid: System.MathH.Sign*
+  name: Sign
+  href: api/System.MathH.html#System_MathH_Sign_
+  commentId: Overload:System.MathH.Sign
+  isSpec: "True"
+  fullName: System.MathH.Sign
+  nameWithType: MathH.Sign
+- uid: System.MathH.Sin(System.Half)
+  name: Sin(Half)
+  href: api/System.MathH.html#System_MathH_Sin_System_Half_
+  commentId: M:System.MathH.Sin(System.Half)
+  fullName: System.MathH.Sin(System.Half)
+  nameWithType: MathH.Sin(Half)
+- uid: System.MathH.Sin*
+  name: Sin
+  href: api/System.MathH.html#System_MathH_Sin_
+  commentId: Overload:System.MathH.Sin
+  isSpec: "True"
+  fullName: System.MathH.Sin
+  nameWithType: MathH.Sin
+- uid: System.MathH.Sinh(System.Half)
+  name: Sinh(Half)
+  href: api/System.MathH.html#System_MathH_Sinh_System_Half_
+  commentId: M:System.MathH.Sinh(System.Half)
+  fullName: System.MathH.Sinh(System.Half)
+  nameWithType: MathH.Sinh(Half)
+- uid: System.MathH.Sinh*
+  name: Sinh
+  href: api/System.MathH.html#System_MathH_Sinh_
+  commentId: Overload:System.MathH.Sinh
+  isSpec: "True"
+  fullName: System.MathH.Sinh
+  nameWithType: MathH.Sinh
+- uid: System.MathH.Sqrt(System.Half)
+  name: Sqrt(Half)
+  href: api/System.MathH.html#System_MathH_Sqrt_System_Half_
+  commentId: M:System.MathH.Sqrt(System.Half)
+  fullName: System.MathH.Sqrt(System.Half)
+  nameWithType: MathH.Sqrt(Half)
+- uid: System.MathH.Sqrt*
+  name: Sqrt
+  href: api/System.MathH.html#System_MathH_Sqrt_
+  commentId: Overload:System.MathH.Sqrt
+  isSpec: "True"
+  fullName: System.MathH.Sqrt
+  nameWithType: MathH.Sqrt
+- uid: System.MathH.Tan(System.Half)
+  name: Tan(Half)
+  href: api/System.MathH.html#System_MathH_Tan_System_Half_
+  commentId: M:System.MathH.Tan(System.Half)
+  fullName: System.MathH.Tan(System.Half)
+  nameWithType: MathH.Tan(Half)
+- uid: System.MathH.Tan*
+  name: Tan
+  href: api/System.MathH.html#System_MathH_Tan_
+  commentId: Overload:System.MathH.Tan
+  isSpec: "True"
+  fullName: System.MathH.Tan
+  nameWithType: MathH.Tan
+- uid: System.MathH.Tanh(System.Half)
+  name: Tanh(Half)
+  href: api/System.MathH.html#System_MathH_Tanh_System_Half_
+  commentId: M:System.MathH.Tanh(System.Half)
+  fullName: System.MathH.Tanh(System.Half)
+  nameWithType: MathH.Tanh(Half)
+- uid: System.MathH.Tanh*
+  name: Tanh
+  href: api/System.MathH.html#System_MathH_Tanh_
+  commentId: Overload:System.MathH.Tanh
+  isSpec: "True"
+  fullName: System.MathH.Tanh
+  nameWithType: MathH.Tanh
+- uid: System.MathH.Truncate(System.Half)
+  name: Truncate(Half)
+  href: api/System.MathH.html#System_MathH_Truncate_System_Half_
+  commentId: M:System.MathH.Truncate(System.Half)
+  fullName: System.MathH.Truncate(System.Half)
+  nameWithType: MathH.Truncate(Half)
+- uid: System.MathH.Truncate*
+  name: Truncate
+  href: api/System.MathH.html#System_MathH_Truncate_
+  commentId: Overload:System.MathH.Truncate
+  isSpec: "True"
+  fullName: System.MathH.Truncate
+  nameWithType: MathH.Truncate
