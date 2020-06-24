@@ -13,3 +13,1204 @@ references:
   commentId: T:System.Half
   fullName: System.Half
   nameWithType: Half
+- uid: System.Half.Abs(System.Half)
+  name: Abs(Half)
+  href: api/System.Half.html#System_Half_Abs_System_Half_
+  commentId: M:System.Half.Abs(System.Half)
+  fullName: System.Half.Abs(System.Half)
+  nameWithType: Half.Abs(Half)
+- uid: System.Half.Abs*
+  name: Abs
+  href: api/System.Half.html#System_Half_Abs_
+  commentId: Overload:System.Half.Abs
+  isSpec: "True"
+  fullName: System.Half.Abs
+  nameWithType: Half.Abs
+- uid: System.Half.CompareTo(System.Half)
+  name: CompareTo(Half)
+  href: api/System.Half.html#System_Half_CompareTo_System_Half_
+  commentId: M:System.Half.CompareTo(System.Half)
+  fullName: System.Half.CompareTo(System.Half)
+  nameWithType: Half.CompareTo(Half)
+- uid: System.Half.CompareTo(System.Object)
+  name: CompareTo(Object)
+  href: api/System.Half.html#System_Half_CompareTo_System_Object_
+  commentId: M:System.Half.CompareTo(System.Object)
+  fullName: System.Half.CompareTo(System.Object)
+  nameWithType: Half.CompareTo(Object)
+- uid: System.Half.CompareTo*
+  name: CompareTo
+  href: api/System.Half.html#System_Half_CompareTo_
+  commentId: Overload:System.Half.CompareTo
+  isSpec: "True"
+  fullName: System.Half.CompareTo
+  nameWithType: Half.CompareTo
+- uid: System.Half.Epsilon
+  name: Epsilon
+  href: api/System.Half.html#System_Half_Epsilon
+  commentId: P:System.Half.Epsilon
+  fullName: System.Half.Epsilon
+  nameWithType: Half.Epsilon
+- uid: System.Half.Epsilon*
+  name: Epsilon
+  href: api/System.Half.html#System_Half_Epsilon_
+  commentId: Overload:System.Half.Epsilon
+  isSpec: "True"
+  fullName: System.Half.Epsilon
+  nameWithType: Half.Epsilon
+- uid: System.Half.Equals(System.Half)
+  name: Equals(Half)
+  href: api/System.Half.html#System_Half_Equals_System_Half_
+  commentId: M:System.Half.Equals(System.Half)
+  fullName: System.Half.Equals(System.Half)
+  nameWithType: Half.Equals(Half)
+- uid: System.Half.Equals(System.Object)
+  name: Equals(Object)
+  href: api/System.Half.html#System_Half_Equals_System_Object_
+  commentId: M:System.Half.Equals(System.Object)
+  fullName: System.Half.Equals(System.Object)
+  nameWithType: Half.Equals(Object)
+- uid: System.Half.Equals*
+  name: Equals
+  href: api/System.Half.html#System_Half_Equals_
+  commentId: Overload:System.Half.Equals
+  isSpec: "True"
+  fullName: System.Half.Equals
+  nameWithType: Half.Equals
+- uid: System.Half.ExponentMask
+  name: ExponentMask
+  href: api/System.Half.html#System_Half_ExponentMask
+  commentId: F:System.Half.ExponentMask
+  fullName: System.Half.ExponentMask
+  nameWithType: Half.ExponentMask
+- uid: System.Half.GetBytes(System.Half)
+  name: GetBytes(Half)
+  href: api/System.Half.html#System_Half_GetBytes_System_Half_
+  commentId: M:System.Half.GetBytes(System.Half)
+  fullName: System.Half.GetBytes(System.Half)
+  nameWithType: Half.GetBytes(Half)
+- uid: System.Half.GetBytes*
+  name: GetBytes
+  href: api/System.Half.html#System_Half_GetBytes_
+  commentId: Overload:System.Half.GetBytes
+  isSpec: "True"
+  fullName: System.Half.GetBytes
+  nameWithType: Half.GetBytes
+- uid: System.Half.GetExponent
+  name: GetExponent()
+  href: api/System.Half.html#System_Half_GetExponent
+  commentId: M:System.Half.GetExponent
+  fullName: System.Half.GetExponent()
+  nameWithType: Half.GetExponent()
+- uid: System.Half.GetExponent*
+  name: GetExponent
+  href: api/System.Half.html#System_Half_GetExponent_
+  commentId: Overload:System.Half.GetExponent
+  isSpec: "True"
+  fullName: System.Half.GetExponent
+  nameWithType: Half.GetExponent
+- uid: System.Half.GetHashCode
+  name: GetHashCode()
+  href: api/System.Half.html#System_Half_GetHashCode
+  commentId: M:System.Half.GetHashCode
+  fullName: System.Half.GetHashCode()
+  nameWithType: Half.GetHashCode()
+- uid: System.Half.GetHashCode*
+  name: GetHashCode
+  href: api/System.Half.html#System_Half_GetHashCode_
+  commentId: Overload:System.Half.GetHashCode
+  isSpec: "True"
+  fullName: System.Half.GetHashCode
+  nameWithType: Half.GetHashCode
+- uid: System.Half.GetMantissa
+  name: GetMantissa()
+  href: api/System.Half.html#System_Half_GetMantissa
+  commentId: M:System.Half.GetMantissa
+  fullName: System.Half.GetMantissa()
+  nameWithType: Half.GetMantissa()
+- uid: System.Half.GetMantissa*
+  name: GetMantissa
+  href: api/System.Half.html#System_Half_GetMantissa_
+  commentId: Overload:System.Half.GetMantissa
+  isSpec: "True"
+  fullName: System.Half.GetMantissa
+  nameWithType: Half.GetMantissa
+- uid: System.Half.GetSign
+  name: GetSign()
+  href: api/System.Half.html#System_Half_GetSign
+  commentId: M:System.Half.GetSign
+  fullName: System.Half.GetSign()
+  nameWithType: Half.GetSign()
+- uid: System.Half.GetSign*
+  name: GetSign
+  href: api/System.Half.html#System_Half_GetSign_
+  commentId: Overload:System.Half.GetSign
+  isSpec: "True"
+  fullName: System.Half.GetSign
+  nameWithType: Half.GetSign
+- uid: System.Half.GetTypeCode
+  name: GetTypeCode()
+  href: api/System.Half.html#System_Half_GetTypeCode
+  commentId: M:System.Half.GetTypeCode
+  fullName: System.Half.GetTypeCode()
+  nameWithType: Half.GetTypeCode()
+- uid: System.Half.GetTypeCode*
+  name: GetTypeCode
+  href: api/System.Half.html#System_Half_GetTypeCode_
+  commentId: Overload:System.Half.GetTypeCode
+  isSpec: "True"
+  fullName: System.Half.GetTypeCode
+  nameWithType: Half.GetTypeCode
+- uid: System.Half.IsFinite(System.Half)
+  name: IsFinite(Half)
+  href: api/System.Half.html#System_Half_IsFinite_System_Half_
+  commentId: M:System.Half.IsFinite(System.Half)
+  fullName: System.Half.IsFinite(System.Half)
+  nameWithType: Half.IsFinite(Half)
+- uid: System.Half.IsFinite*
+  name: IsFinite
+  href: api/System.Half.html#System_Half_IsFinite_
+  commentId: Overload:System.Half.IsFinite
+  isSpec: "True"
+  fullName: System.Half.IsFinite
+  nameWithType: Half.IsFinite
+- uid: System.Half.IsInfinity(System.Half)
+  name: IsInfinity(Half)
+  href: api/System.Half.html#System_Half_IsInfinity_System_Half_
+  commentId: M:System.Half.IsInfinity(System.Half)
+  fullName: System.Half.IsInfinity(System.Half)
+  nameWithType: Half.IsInfinity(Half)
+- uid: System.Half.IsInfinity*
+  name: IsInfinity
+  href: api/System.Half.html#System_Half_IsInfinity_
+  commentId: Overload:System.Half.IsInfinity
+  isSpec: "True"
+  fullName: System.Half.IsInfinity
+  nameWithType: Half.IsInfinity
+- uid: System.Half.IsNaN(System.Half)
+  name: IsNaN(Half)
+  href: api/System.Half.html#System_Half_IsNaN_System_Half_
+  commentId: M:System.Half.IsNaN(System.Half)
+  fullName: System.Half.IsNaN(System.Half)
+  nameWithType: Half.IsNaN(Half)
+- uid: System.Half.IsNaN*
+  name: IsNaN
+  href: api/System.Half.html#System_Half_IsNaN_
+  commentId: Overload:System.Half.IsNaN
+  isSpec: "True"
+  fullName: System.Half.IsNaN
+  nameWithType: Half.IsNaN
+- uid: System.Half.IsNegative(System.Half)
+  name: IsNegative(Half)
+  href: api/System.Half.html#System_Half_IsNegative_System_Half_
+  commentId: M:System.Half.IsNegative(System.Half)
+  fullName: System.Half.IsNegative(System.Half)
+  nameWithType: Half.IsNegative(Half)
+- uid: System.Half.IsNegative*
+  name: IsNegative
+  href: api/System.Half.html#System_Half_IsNegative_
+  commentId: Overload:System.Half.IsNegative
+  isSpec: "True"
+  fullName: System.Half.IsNegative
+  nameWithType: Half.IsNegative
+- uid: System.Half.IsNegativeInfinity(System.Half)
+  name: IsNegativeInfinity(Half)
+  href: api/System.Half.html#System_Half_IsNegativeInfinity_System_Half_
+  commentId: M:System.Half.IsNegativeInfinity(System.Half)
+  fullName: System.Half.IsNegativeInfinity(System.Half)
+  nameWithType: Half.IsNegativeInfinity(Half)
+- uid: System.Half.IsNegativeInfinity*
+  name: IsNegativeInfinity
+  href: api/System.Half.html#System_Half_IsNegativeInfinity_
+  commentId: Overload:System.Half.IsNegativeInfinity
+  isSpec: "True"
+  fullName: System.Half.IsNegativeInfinity
+  nameWithType: Half.IsNegativeInfinity
+- uid: System.Half.IsNormal(System.Half)
+  name: IsNormal(Half)
+  href: api/System.Half.html#System_Half_IsNormal_System_Half_
+  commentId: M:System.Half.IsNormal(System.Half)
+  fullName: System.Half.IsNormal(System.Half)
+  nameWithType: Half.IsNormal(Half)
+- uid: System.Half.IsNormal*
+  name: IsNormal
+  href: api/System.Half.html#System_Half_IsNormal_
+  commentId: Overload:System.Half.IsNormal
+  isSpec: "True"
+  fullName: System.Half.IsNormal
+  nameWithType: Half.IsNormal
+- uid: System.Half.IsPositiveInfinity(System.Half)
+  name: IsPositiveInfinity(Half)
+  href: api/System.Half.html#System_Half_IsPositiveInfinity_System_Half_
+  commentId: M:System.Half.IsPositiveInfinity(System.Half)
+  fullName: System.Half.IsPositiveInfinity(System.Half)
+  nameWithType: Half.IsPositiveInfinity(Half)
+- uid: System.Half.IsPositiveInfinity*
+  name: IsPositiveInfinity
+  href: api/System.Half.html#System_Half_IsPositiveInfinity_
+  commentId: Overload:System.Half.IsPositiveInfinity
+  isSpec: "True"
+  fullName: System.Half.IsPositiveInfinity
+  nameWithType: Half.IsPositiveInfinity
+- uid: System.Half.IsSubnormal(System.Half)
+  name: IsSubnormal(Half)
+  href: api/System.Half.html#System_Half_IsSubnormal_System_Half_
+  commentId: M:System.Half.IsSubnormal(System.Half)
+  fullName: System.Half.IsSubnormal(System.Half)
+  nameWithType: Half.IsSubnormal(Half)
+- uid: System.Half.IsSubnormal*
+  name: IsSubnormal
+  href: api/System.Half.html#System_Half_IsSubnormal_
+  commentId: Overload:System.Half.IsSubnormal
+  isSpec: "True"
+  fullName: System.Half.IsSubnormal
+  nameWithType: Half.IsSubnormal
+- uid: System.Half.MantissaMask
+  name: MantissaMask
+  href: api/System.Half.html#System_Half_MantissaMask
+  commentId: F:System.Half.MantissaMask
+  fullName: System.Half.MantissaMask
+  nameWithType: Half.MantissaMask
+- uid: System.Half.MaxValue
+  name: MaxValue
+  href: api/System.Half.html#System_Half_MaxValue
+  commentId: P:System.Half.MaxValue
+  fullName: System.Half.MaxValue
+  nameWithType: Half.MaxValue
+- uid: System.Half.MaxValue*
+  name: MaxValue
+  href: api/System.Half.html#System_Half_MaxValue_
+  commentId: Overload:System.Half.MaxValue
+  isSpec: "True"
+  fullName: System.Half.MaxValue
+  nameWithType: Half.MaxValue
+- uid: System.Half.MinValue
+  name: MinValue
+  href: api/System.Half.html#System_Half_MinValue
+  commentId: P:System.Half.MinValue
+  fullName: System.Half.MinValue
+  nameWithType: Half.MinValue
+- uid: System.Half.MinValue*
+  name: MinValue
+  href: api/System.Half.html#System_Half_MinValue_
+  commentId: Overload:System.Half.MinValue
+  isSpec: "True"
+  fullName: System.Half.MinValue
+  nameWithType: Half.MinValue
+- uid: System.Half.NaN
+  name: NaN
+  href: api/System.Half.html#System_Half_NaN
+  commentId: P:System.Half.NaN
+  fullName: System.Half.NaN
+  nameWithType: Half.NaN
+- uid: System.Half.NaN*
+  name: NaN
+  href: api/System.Half.html#System_Half_NaN_
+  commentId: Overload:System.Half.NaN
+  isSpec: "True"
+  fullName: System.Half.NaN
+  nameWithType: Half.NaN
+- uid: System.Half.NegativeInfinity
+  name: NegativeInfinity
+  href: api/System.Half.html#System_Half_NegativeInfinity
+  commentId: P:System.Half.NegativeInfinity
+  fullName: System.Half.NegativeInfinity
+  nameWithType: Half.NegativeInfinity
+- uid: System.Half.NegativeInfinity*
+  name: NegativeInfinity
+  href: api/System.Half.html#System_Half_NegativeInfinity_
+  commentId: Overload:System.Half.NegativeInfinity
+  isSpec: "True"
+  fullName: System.Half.NegativeInfinity
+  nameWithType: Half.NegativeInfinity
+- uid: System.Half.op_Addition(System.Half,System.Half)
+  name: Addition(Half, Half)
+  href: api/System.Half.html#System_Half_op_Addition_System_Half_System_Half_
+  commentId: M:System.Half.op_Addition(System.Half,System.Half)
+  fullName: System.Half.Addition(System.Half, System.Half)
+  nameWithType: Half.Addition(Half, Half)
+- uid: System.Half.op_Addition*
+  name: Addition
+  href: api/System.Half.html#System_Half_op_Addition_
+  commentId: Overload:System.Half.op_Addition
+  isSpec: "True"
+  fullName: System.Half.Addition
+  nameWithType: Half.Addition
+- uid: System.Half.op_Decrement(System.Half)
+  name: Decrement(Half)
+  href: api/System.Half.html#System_Half_op_Decrement_System_Half_
+  commentId: M:System.Half.op_Decrement(System.Half)
+  fullName: System.Half.Decrement(System.Half)
+  nameWithType: Half.Decrement(Half)
+- uid: System.Half.op_Decrement*
+  name: Decrement
+  href: api/System.Half.html#System_Half_op_Decrement_
+  commentId: Overload:System.Half.op_Decrement
+  isSpec: "True"
+  fullName: System.Half.Decrement
+  nameWithType: Half.Decrement
+- uid: System.Half.op_Division(System.Half,System.Half)
+  name: Division(Half, Half)
+  href: api/System.Half.html#System_Half_op_Division_System_Half_System_Half_
+  commentId: M:System.Half.op_Division(System.Half,System.Half)
+  fullName: System.Half.Division(System.Half, System.Half)
+  nameWithType: Half.Division(Half, Half)
+- uid: System.Half.op_Division*
+  name: Division
+  href: api/System.Half.html#System_Half_op_Division_
+  commentId: Overload:System.Half.op_Division
+  isSpec: "True"
+  fullName: System.Half.Division
+  nameWithType: Half.Division
+- uid: System.Half.op_Equality(System.Half,System.Half)
+  name: Equality(Half, Half)
+  href: api/System.Half.html#System_Half_op_Equality_System_Half_System_Half_
+  commentId: M:System.Half.op_Equality(System.Half,System.Half)
+  fullName: System.Half.Equality(System.Half, System.Half)
+  nameWithType: Half.Equality(Half, Half)
+- uid: System.Half.op_Equality*
+  name: Equality
+  href: api/System.Half.html#System_Half_op_Equality_
+  commentId: Overload:System.Half.op_Equality
+  isSpec: "True"
+  fullName: System.Half.Equality
+  nameWithType: Half.Equality
+- uid: System.Half.op_Explicit(System.Decimal)~System.Half
+  name: Explicit(Decimal to Half)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Decimal__System_Half
+  commentId: M:System.Half.op_Explicit(System.Decimal)~System.Half
+  name.vb: Narrowing(Decimal to Half)
+  fullName: System.Half.Explicit(System.Decimal to System.Half)
+  fullName.vb: System.Half.Narrowing(System.Decimal to System.Half)
+  nameWithType: Half.Explicit(Decimal to Half)
+  nameWithType.vb: Half.Narrowing(Decimal to Half)
+- uid: System.Half.op_Explicit(System.Double)~System.Half
+  name: Explicit(Double to Half)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Double__System_Half
+  commentId: M:System.Half.op_Explicit(System.Double)~System.Half
+  name.vb: Narrowing(Double to Half)
+  fullName: System.Half.Explicit(System.Double to System.Half)
+  fullName.vb: System.Half.Narrowing(System.Double to System.Half)
+  nameWithType: Half.Explicit(Double to Half)
+  nameWithType.vb: Half.Narrowing(Double to Half)
+- uid: System.Half.op_Explicit(System.Half)~System.Byte
+  name: Explicit(Half to Byte)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_Byte
+  commentId: M:System.Half.op_Explicit(System.Half)~System.Byte
+  name.vb: Narrowing(Half to Byte)
+  fullName: System.Half.Explicit(System.Half to System.Byte)
+  fullName.vb: System.Half.Narrowing(System.Half to System.Byte)
+  nameWithType: Half.Explicit(Half to Byte)
+  nameWithType.vb: Half.Narrowing(Half to Byte)
+- uid: System.Half.op_Explicit(System.Half)~System.Char
+  name: Explicit(Half to Char)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_Char
+  commentId: M:System.Half.op_Explicit(System.Half)~System.Char
+  name.vb: Narrowing(Half to Char)
+  fullName: System.Half.Explicit(System.Half to System.Char)
+  fullName.vb: System.Half.Narrowing(System.Half to System.Char)
+  nameWithType: Half.Explicit(Half to Char)
+  nameWithType.vb: Half.Narrowing(Half to Char)
+- uid: System.Half.op_Explicit(System.Half)~System.Decimal
+  name: Explicit(Half to Decimal)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_Decimal
+  commentId: M:System.Half.op_Explicit(System.Half)~System.Decimal
+  name.vb: Narrowing(Half to Decimal)
+  fullName: System.Half.Explicit(System.Half to System.Decimal)
+  fullName.vb: System.Half.Narrowing(System.Half to System.Decimal)
+  nameWithType: Half.Explicit(Half to Decimal)
+  nameWithType.vb: Half.Narrowing(Half to Decimal)
+- uid: System.Half.op_Explicit(System.Half)~System.Int16
+  name: Explicit(Half to Int16)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_Int16
+  commentId: M:System.Half.op_Explicit(System.Half)~System.Int16
+  name.vb: Narrowing(Half to Int16)
+  fullName: System.Half.Explicit(System.Half to System.Int16)
+  fullName.vb: System.Half.Narrowing(System.Half to System.Int16)
+  nameWithType: Half.Explicit(Half to Int16)
+  nameWithType.vb: Half.Narrowing(Half to Int16)
+- uid: System.Half.op_Explicit(System.Half)~System.Int32
+  name: Explicit(Half to Int32)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_Int32
+  commentId: M:System.Half.op_Explicit(System.Half)~System.Int32
+  name.vb: Narrowing(Half to Int32)
+  fullName: System.Half.Explicit(System.Half to System.Int32)
+  fullName.vb: System.Half.Narrowing(System.Half to System.Int32)
+  nameWithType: Half.Explicit(Half to Int32)
+  nameWithType.vb: Half.Narrowing(Half to Int32)
+- uid: System.Half.op_Explicit(System.Half)~System.Int64
+  name: Explicit(Half to Int64)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_Int64
+  commentId: M:System.Half.op_Explicit(System.Half)~System.Int64
+  name.vb: Narrowing(Half to Int64)
+  fullName: System.Half.Explicit(System.Half to System.Int64)
+  fullName.vb: System.Half.Narrowing(System.Half to System.Int64)
+  nameWithType: Half.Explicit(Half to Int64)
+  nameWithType.vb: Half.Narrowing(Half to Int64)
+- uid: System.Half.op_Explicit(System.Half)~System.SByte
+  name: Explicit(Half to SByte)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_SByte
+  commentId: M:System.Half.op_Explicit(System.Half)~System.SByte
+  name.vb: Narrowing(Half to SByte)
+  fullName: System.Half.Explicit(System.Half to System.SByte)
+  fullName.vb: System.Half.Narrowing(System.Half to System.SByte)
+  nameWithType: Half.Explicit(Half to SByte)
+  nameWithType.vb: Half.Narrowing(Half to SByte)
+- uid: System.Half.op_Explicit(System.Half)~System.UInt16
+  name: Explicit(Half to UInt16)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_UInt16
+  commentId: M:System.Half.op_Explicit(System.Half)~System.UInt16
+  name.vb: Narrowing(Half to UInt16)
+  fullName: System.Half.Explicit(System.Half to System.UInt16)
+  fullName.vb: System.Half.Narrowing(System.Half to System.UInt16)
+  nameWithType: Half.Explicit(Half to UInt16)
+  nameWithType.vb: Half.Narrowing(Half to UInt16)
+- uid: System.Half.op_Explicit(System.Half)~System.UInt32
+  name: Explicit(Half to UInt32)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_UInt32
+  commentId: M:System.Half.op_Explicit(System.Half)~System.UInt32
+  name.vb: Narrowing(Half to UInt32)
+  fullName: System.Half.Explicit(System.Half to System.UInt32)
+  fullName.vb: System.Half.Narrowing(System.Half to System.UInt32)
+  nameWithType: Half.Explicit(Half to UInt32)
+  nameWithType.vb: Half.Narrowing(Half to UInt32)
+- uid: System.Half.op_Explicit(System.Half)~System.UInt64
+  name: Explicit(Half to UInt64)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Half__System_UInt64
+  commentId: M:System.Half.op_Explicit(System.Half)~System.UInt64
+  name.vb: Narrowing(Half to UInt64)
+  fullName: System.Half.Explicit(System.Half to System.UInt64)
+  fullName.vb: System.Half.Narrowing(System.Half to System.UInt64)
+  nameWithType: Half.Explicit(Half to UInt64)
+  nameWithType.vb: Half.Narrowing(Half to UInt64)
+- uid: System.Half.op_Explicit(System.Single)~System.Half
+  name: Explicit(Single to Half)
+  href: api/System.Half.html#System_Half_op_Explicit_System_Single__System_Half
+  commentId: M:System.Half.op_Explicit(System.Single)~System.Half
+  name.vb: Narrowing(Single to Half)
+  fullName: System.Half.Explicit(System.Single to System.Half)
+  fullName.vb: System.Half.Narrowing(System.Single to System.Half)
+  nameWithType: Half.Explicit(Single to Half)
+  nameWithType.vb: Half.Narrowing(Single to Half)
+- uid: System.Half.op_Explicit*
+  name: Explicit
+  href: api/System.Half.html#System_Half_op_Explicit_
+  commentId: Overload:System.Half.op_Explicit
+  isSpec: "True"
+  name.vb: Narrowing
+  fullName: System.Half.Explicit
+  fullName.vb: System.Half.Narrowing
+  nameWithType: Half.Explicit
+  nameWithType.vb: Half.Narrowing
+- uid: System.Half.op_Exponent(System.Half,System.Half)
+  name: op_Exponent(Half, Half)
+  href: api/System.Half.html#System_Half_op_Exponent_System_Half_System_Half_
+  commentId: M:System.Half.op_Exponent(System.Half,System.Half)
+  fullName: System.Half.op_Exponent(System.Half, System.Half)
+  nameWithType: Half.op_Exponent(Half, Half)
+- uid: System.Half.op_Exponent*
+  name: op_Exponent
+  href: api/System.Half.html#System_Half_op_Exponent_
+  commentId: Overload:System.Half.op_Exponent
+  isSpec: "True"
+  fullName: System.Half.op_Exponent
+  nameWithType: Half.op_Exponent
+- uid: System.Half.op_GreaterThan(System.Half,System.Half)
+  name: GreaterThan(Half, Half)
+  href: api/System.Half.html#System_Half_op_GreaterThan_System_Half_System_Half_
+  commentId: M:System.Half.op_GreaterThan(System.Half,System.Half)
+  fullName: System.Half.GreaterThan(System.Half, System.Half)
+  nameWithType: Half.GreaterThan(Half, Half)
+- uid: System.Half.op_GreaterThan*
+  name: GreaterThan
+  href: api/System.Half.html#System_Half_op_GreaterThan_
+  commentId: Overload:System.Half.op_GreaterThan
+  isSpec: "True"
+  fullName: System.Half.GreaterThan
+  nameWithType: Half.GreaterThan
+- uid: System.Half.op_GreaterThanOrEqual(System.Half,System.Half)
+  name: GreaterThanOrEqual(Half, Half)
+  href: api/System.Half.html#System_Half_op_GreaterThanOrEqual_System_Half_System_Half_
+  commentId: M:System.Half.op_GreaterThanOrEqual(System.Half,System.Half)
+  fullName: System.Half.GreaterThanOrEqual(System.Half, System.Half)
+  nameWithType: Half.GreaterThanOrEqual(Half, Half)
+- uid: System.Half.op_GreaterThanOrEqual*
+  name: GreaterThanOrEqual
+  href: api/System.Half.html#System_Half_op_GreaterThanOrEqual_
+  commentId: Overload:System.Half.op_GreaterThanOrEqual
+  isSpec: "True"
+  fullName: System.Half.GreaterThanOrEqual
+  nameWithType: Half.GreaterThanOrEqual
+- uid: System.Half.op_Implicit(System.Byte)~System.Half
+  name: Implicit(Byte to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_Byte__System_Half
+  commentId: M:System.Half.op_Implicit(System.Byte)~System.Half
+  name.vb: Widening(Byte to Half)
+  fullName: System.Half.Implicit(System.Byte to System.Half)
+  fullName.vb: System.Half.Widening(System.Byte to System.Half)
+  nameWithType: Half.Implicit(Byte to Half)
+  nameWithType.vb: Half.Widening(Byte to Half)
+- uid: System.Half.op_Implicit(System.Char)~System.Half
+  name: Implicit(Char to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_Char__System_Half
+  commentId: M:System.Half.op_Implicit(System.Char)~System.Half
+  name.vb: Widening(Char to Half)
+  fullName: System.Half.Implicit(System.Char to System.Half)
+  fullName.vb: System.Half.Widening(System.Char to System.Half)
+  nameWithType: Half.Implicit(Char to Half)
+  nameWithType.vb: Half.Widening(Char to Half)
+- uid: System.Half.op_Implicit(System.Half)~System.Double
+  name: Implicit(Half to Double)
+  href: api/System.Half.html#System_Half_op_Implicit_System_Half__System_Double
+  commentId: M:System.Half.op_Implicit(System.Half)~System.Double
+  name.vb: Widening(Half to Double)
+  fullName: System.Half.Implicit(System.Half to System.Double)
+  fullName.vb: System.Half.Widening(System.Half to System.Double)
+  nameWithType: Half.Implicit(Half to Double)
+  nameWithType.vb: Half.Widening(Half to Double)
+- uid: System.Half.op_Implicit(System.Half)~System.Single
+  name: Implicit(Half to Single)
+  href: api/System.Half.html#System_Half_op_Implicit_System_Half__System_Single
+  commentId: M:System.Half.op_Implicit(System.Half)~System.Single
+  name.vb: Widening(Half to Single)
+  fullName: System.Half.Implicit(System.Half to System.Single)
+  fullName.vb: System.Half.Widening(System.Half to System.Single)
+  nameWithType: Half.Implicit(Half to Single)
+  nameWithType.vb: Half.Widening(Half to Single)
+- uid: System.Half.op_Implicit(System.Int16)~System.Half
+  name: Implicit(Int16 to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_Int16__System_Half
+  commentId: M:System.Half.op_Implicit(System.Int16)~System.Half
+  name.vb: Widening(Int16 to Half)
+  fullName: System.Half.Implicit(System.Int16 to System.Half)
+  fullName.vb: System.Half.Widening(System.Int16 to System.Half)
+  nameWithType: Half.Implicit(Int16 to Half)
+  nameWithType.vb: Half.Widening(Int16 to Half)
+- uid: System.Half.op_Implicit(System.Int32)~System.Half
+  name: Implicit(Int32 to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_Int32__System_Half
+  commentId: M:System.Half.op_Implicit(System.Int32)~System.Half
+  name.vb: Widening(Int32 to Half)
+  fullName: System.Half.Implicit(System.Int32 to System.Half)
+  fullName.vb: System.Half.Widening(System.Int32 to System.Half)
+  nameWithType: Half.Implicit(Int32 to Half)
+  nameWithType.vb: Half.Widening(Int32 to Half)
+- uid: System.Half.op_Implicit(System.Int64)~System.Half
+  name: Implicit(Int64 to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_Int64__System_Half
+  commentId: M:System.Half.op_Implicit(System.Int64)~System.Half
+  name.vb: Widening(Int64 to Half)
+  fullName: System.Half.Implicit(System.Int64 to System.Half)
+  fullName.vb: System.Half.Widening(System.Int64 to System.Half)
+  nameWithType: Half.Implicit(Int64 to Half)
+  nameWithType.vb: Half.Widening(Int64 to Half)
+- uid: System.Half.op_Implicit(System.SByte)~System.Half
+  name: Implicit(SByte to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_SByte__System_Half
+  commentId: M:System.Half.op_Implicit(System.SByte)~System.Half
+  name.vb: Widening(SByte to Half)
+  fullName: System.Half.Implicit(System.SByte to System.Half)
+  fullName.vb: System.Half.Widening(System.SByte to System.Half)
+  nameWithType: Half.Implicit(SByte to Half)
+  nameWithType.vb: Half.Widening(SByte to Half)
+- uid: System.Half.op_Implicit(System.UInt16)~System.Half
+  name: Implicit(UInt16 to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_UInt16__System_Half
+  commentId: M:System.Half.op_Implicit(System.UInt16)~System.Half
+  name.vb: Widening(UInt16 to Half)
+  fullName: System.Half.Implicit(System.UInt16 to System.Half)
+  fullName.vb: System.Half.Widening(System.UInt16 to System.Half)
+  nameWithType: Half.Implicit(UInt16 to Half)
+  nameWithType.vb: Half.Widening(UInt16 to Half)
+- uid: System.Half.op_Implicit(System.UInt32)~System.Half
+  name: Implicit(UInt32 to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_UInt32__System_Half
+  commentId: M:System.Half.op_Implicit(System.UInt32)~System.Half
+  name.vb: Widening(UInt32 to Half)
+  fullName: System.Half.Implicit(System.UInt32 to System.Half)
+  fullName.vb: System.Half.Widening(System.UInt32 to System.Half)
+  nameWithType: Half.Implicit(UInt32 to Half)
+  nameWithType.vb: Half.Widening(UInt32 to Half)
+- uid: System.Half.op_Implicit(System.UInt64)~System.Half
+  name: Implicit(UInt64 to Half)
+  href: api/System.Half.html#System_Half_op_Implicit_System_UInt64__System_Half
+  commentId: M:System.Half.op_Implicit(System.UInt64)~System.Half
+  name.vb: Widening(UInt64 to Half)
+  fullName: System.Half.Implicit(System.UInt64 to System.Half)
+  fullName.vb: System.Half.Widening(System.UInt64 to System.Half)
+  nameWithType: Half.Implicit(UInt64 to Half)
+  nameWithType.vb: Half.Widening(UInt64 to Half)
+- uid: System.Half.op_Implicit*
+  name: Implicit
+  href: api/System.Half.html#System_Half_op_Implicit_
+  commentId: Overload:System.Half.op_Implicit
+  isSpec: "True"
+  name.vb: Widening
+  fullName: System.Half.Implicit
+  fullName.vb: System.Half.Widening
+  nameWithType: Half.Implicit
+  nameWithType.vb: Half.Widening
+- uid: System.Half.op_Increment(System.Half)
+  name: Increment(Half)
+  href: api/System.Half.html#System_Half_op_Increment_System_Half_
+  commentId: M:System.Half.op_Increment(System.Half)
+  fullName: System.Half.Increment(System.Half)
+  nameWithType: Half.Increment(Half)
+- uid: System.Half.op_Increment*
+  name: Increment
+  href: api/System.Half.html#System_Half_op_Increment_
+  commentId: Overload:System.Half.op_Increment
+  isSpec: "True"
+  fullName: System.Half.Increment
+  nameWithType: Half.Increment
+- uid: System.Half.op_Inequality(System.Half,System.Half)
+  name: Inequality(Half, Half)
+  href: api/System.Half.html#System_Half_op_Inequality_System_Half_System_Half_
+  commentId: M:System.Half.op_Inequality(System.Half,System.Half)
+  fullName: System.Half.Inequality(System.Half, System.Half)
+  nameWithType: Half.Inequality(Half, Half)
+- uid: System.Half.op_Inequality*
+  name: Inequality
+  href: api/System.Half.html#System_Half_op_Inequality_
+  commentId: Overload:System.Half.op_Inequality
+  isSpec: "True"
+  fullName: System.Half.Inequality
+  nameWithType: Half.Inequality
+- uid: System.Half.op_LessThan(System.Half,System.Half)
+  name: LessThan(Half, Half)
+  href: api/System.Half.html#System_Half_op_LessThan_System_Half_System_Half_
+  commentId: M:System.Half.op_LessThan(System.Half,System.Half)
+  fullName: System.Half.LessThan(System.Half, System.Half)
+  nameWithType: Half.LessThan(Half, Half)
+- uid: System.Half.op_LessThan*
+  name: LessThan
+  href: api/System.Half.html#System_Half_op_LessThan_
+  commentId: Overload:System.Half.op_LessThan
+  isSpec: "True"
+  fullName: System.Half.LessThan
+  nameWithType: Half.LessThan
+- uid: System.Half.op_LessThanOrEqual(System.Half,System.Half)
+  name: LessThanOrEqual(Half, Half)
+  href: api/System.Half.html#System_Half_op_LessThanOrEqual_System_Half_System_Half_
+  commentId: M:System.Half.op_LessThanOrEqual(System.Half,System.Half)
+  fullName: System.Half.LessThanOrEqual(System.Half, System.Half)
+  nameWithType: Half.LessThanOrEqual(Half, Half)
+- uid: System.Half.op_LessThanOrEqual*
+  name: LessThanOrEqual
+  href: api/System.Half.html#System_Half_op_LessThanOrEqual_
+  commentId: Overload:System.Half.op_LessThanOrEqual
+  isSpec: "True"
+  fullName: System.Half.LessThanOrEqual
+  nameWithType: Half.LessThanOrEqual
+- uid: System.Half.op_Modulus(System.Half,System.Half)
+  name: Modulus(Half, Half)
+  href: api/System.Half.html#System_Half_op_Modulus_System_Half_System_Half_
+  commentId: M:System.Half.op_Modulus(System.Half,System.Half)
+  fullName: System.Half.Modulus(System.Half, System.Half)
+  nameWithType: Half.Modulus(Half, Half)
+- uid: System.Half.op_Modulus*
+  name: Modulus
+  href: api/System.Half.html#System_Half_op_Modulus_
+  commentId: Overload:System.Half.op_Modulus
+  isSpec: "True"
+  fullName: System.Half.Modulus
+  nameWithType: Half.Modulus
+- uid: System.Half.op_Multiply(System.Half,System.Half)
+  name: Multiply(Half, Half)
+  href: api/System.Half.html#System_Half_op_Multiply_System_Half_System_Half_
+  commentId: M:System.Half.op_Multiply(System.Half,System.Half)
+  fullName: System.Half.Multiply(System.Half, System.Half)
+  nameWithType: Half.Multiply(Half, Half)
+- uid: System.Half.op_Multiply*
+  name: Multiply
+  href: api/System.Half.html#System_Half_op_Multiply_
+  commentId: Overload:System.Half.op_Multiply
+  isSpec: "True"
+  fullName: System.Half.Multiply
+  nameWithType: Half.Multiply
+- uid: System.Half.op_Subtraction(System.Half,System.Half)
+  name: Subtraction(Half, Half)
+  href: api/System.Half.html#System_Half_op_Subtraction_System_Half_System_Half_
+  commentId: M:System.Half.op_Subtraction(System.Half,System.Half)
+  fullName: System.Half.Subtraction(System.Half, System.Half)
+  nameWithType: Half.Subtraction(Half, Half)
+- uid: System.Half.op_Subtraction*
+  name: Subtraction
+  href: api/System.Half.html#System_Half_op_Subtraction_
+  commentId: Overload:System.Half.op_Subtraction
+  isSpec: "True"
+  fullName: System.Half.Subtraction
+  nameWithType: Half.Subtraction
+- uid: System.Half.op_UnaryNegation(System.Half)
+  name: UnaryNegation(Half)
+  href: api/System.Half.html#System_Half_op_UnaryNegation_System_Half_
+  commentId: M:System.Half.op_UnaryNegation(System.Half)
+  fullName: System.Half.UnaryNegation(System.Half)
+  nameWithType: Half.UnaryNegation(Half)
+- uid: System.Half.op_UnaryNegation*
+  name: UnaryNegation
+  href: api/System.Half.html#System_Half_op_UnaryNegation_
+  commentId: Overload:System.Half.op_UnaryNegation
+  isSpec: "True"
+  fullName: System.Half.UnaryNegation
+  nameWithType: Half.UnaryNegation
+- uid: System.Half.op_UnaryPlus(System.Half)
+  name: UnaryPlus(Half)
+  href: api/System.Half.html#System_Half_op_UnaryPlus_System_Half_
+  commentId: M:System.Half.op_UnaryPlus(System.Half)
+  fullName: System.Half.UnaryPlus(System.Half)
+  nameWithType: Half.UnaryPlus(Half)
+- uid: System.Half.op_UnaryPlus*
+  name: UnaryPlus
+  href: api/System.Half.html#System_Half_op_UnaryPlus_
+  commentId: Overload:System.Half.op_UnaryPlus
+  isSpec: "True"
+  fullName: System.Half.UnaryPlus
+  nameWithType: Half.UnaryPlus
+- uid: System.Half.Parse(System.ReadOnlySpan{System.Char},System.Globalization.NumberStyles,System.IFormatProvider)
+  name: Parse(ReadOnlySpan<Char>, NumberStyles, IFormatProvider)
+  href: api/System.Half.html#System_Half_Parse_System_ReadOnlySpan_System_Char__System_Globalization_NumberStyles_System_IFormatProvider_
+  commentId: M:System.Half.Parse(System.ReadOnlySpan{System.Char},System.Globalization.NumberStyles,System.IFormatProvider)
+  name.vb: Parse(ReadOnlySpan(Of Char), NumberStyles, IFormatProvider)
+  fullName: System.Half.Parse(System.ReadOnlySpan<System.Char>, System.Globalization.NumberStyles, System.IFormatProvider)
+  fullName.vb: System.Half.Parse(System.ReadOnlySpan(Of System.Char), System.Globalization.NumberStyles, System.IFormatProvider)
+  nameWithType: Half.Parse(ReadOnlySpan<Char>, NumberStyles, IFormatProvider)
+  nameWithType.vb: Half.Parse(ReadOnlySpan(Of Char), NumberStyles, IFormatProvider)
+- uid: System.Half.Parse(System.String)
+  name: Parse(String)
+  href: api/System.Half.html#System_Half_Parse_System_String_
+  commentId: M:System.Half.Parse(System.String)
+  fullName: System.Half.Parse(System.String)
+  nameWithType: Half.Parse(String)
+- uid: System.Half.Parse(System.String,System.Globalization.NumberStyles)
+  name: Parse(String, NumberStyles)
+  href: api/System.Half.html#System_Half_Parse_System_String_System_Globalization_NumberStyles_
+  commentId: M:System.Half.Parse(System.String,System.Globalization.NumberStyles)
+  fullName: System.Half.Parse(System.String, System.Globalization.NumberStyles)
+  nameWithType: Half.Parse(String, NumberStyles)
+- uid: System.Half.Parse(System.String,System.Globalization.NumberStyles,System.IFormatProvider)
+  name: Parse(String, NumberStyles, IFormatProvider)
+  href: api/System.Half.html#System_Half_Parse_System_String_System_Globalization_NumberStyles_System_IFormatProvider_
+  commentId: M:System.Half.Parse(System.String,System.Globalization.NumberStyles,System.IFormatProvider)
+  fullName: System.Half.Parse(System.String, System.Globalization.NumberStyles, System.IFormatProvider)
+  nameWithType: Half.Parse(String, NumberStyles, IFormatProvider)
+- uid: System.Half.Parse(System.String,System.IFormatProvider)
+  name: Parse(String, IFormatProvider)
+  href: api/System.Half.html#System_Half_Parse_System_String_System_IFormatProvider_
+  commentId: M:System.Half.Parse(System.String,System.IFormatProvider)
+  fullName: System.Half.Parse(System.String, System.IFormatProvider)
+  nameWithType: Half.Parse(String, IFormatProvider)
+- uid: System.Half.Parse*
+  name: Parse
+  href: api/System.Half.html#System_Half_Parse_
+  commentId: Overload:System.Half.Parse
+  isSpec: "True"
+  fullName: System.Half.Parse
+  nameWithType: Half.Parse
+- uid: System.Half.PositiveInfinity
+  name: PositiveInfinity
+  href: api/System.Half.html#System_Half_PositiveInfinity
+  commentId: P:System.Half.PositiveInfinity
+  fullName: System.Half.PositiveInfinity
+  nameWithType: Half.PositiveInfinity
+- uid: System.Half.PositiveInfinity*
+  name: PositiveInfinity
+  href: api/System.Half.html#System_Half_PositiveInfinity_
+  commentId: Overload:System.Half.PositiveInfinity
+  isSpec: "True"
+  fullName: System.Half.PositiveInfinity
+  nameWithType: Half.PositiveInfinity
+- uid: System.Half.SignMask
+  name: SignMask
+  href: api/System.Half.html#System_Half_SignMask
+  commentId: F:System.Half.SignMask
+  fullName: System.Half.SignMask
+  nameWithType: Half.SignMask
+- uid: System.Half.SizeOf
+  name: SizeOf
+  href: api/System.Half.html#System_Half_SizeOf
+  commentId: P:System.Half.SizeOf
+  fullName: System.Half.SizeOf
+  nameWithType: Half.SizeOf
+- uid: System.Half.SizeOf*
+  name: SizeOf
+  href: api/System.Half.html#System_Half_SizeOf_
+  commentId: Overload:System.Half.SizeOf
+  isSpec: "True"
+  fullName: System.Half.SizeOf
+  nameWithType: Half.SizeOf
+- uid: System.Half.System#IConvertible#ToBoolean(System.IFormatProvider)
+  name: IConvertible.ToBoolean(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToBoolean_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToBoolean(System.IFormatProvider)
+  name.vb: System.IConvertible.ToBoolean(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToBoolean(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToBoolean(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToBoolean(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToBoolean*
+  name: IConvertible.ToBoolean
+  href: api/System.Half.html#System_Half_System_IConvertible_ToBoolean_
+  commentId: Overload:System.Half.System#IConvertible#ToBoolean
+  isSpec: "True"
+  name.vb: System.IConvertible.ToBoolean
+  fullName: System.Half.System.IConvertible.ToBoolean
+  nameWithType: Half.IConvertible.ToBoolean
+  nameWithType.vb: Half.System.IConvertible.ToBoolean
+- uid: System.Half.System#IConvertible#ToByte(System.IFormatProvider)
+  name: IConvertible.ToByte(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToByte_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToByte(System.IFormatProvider)
+  name.vb: System.IConvertible.ToByte(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToByte(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToByte(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToByte(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToByte*
+  name: IConvertible.ToByte
+  href: api/System.Half.html#System_Half_System_IConvertible_ToByte_
+  commentId: Overload:System.Half.System#IConvertible#ToByte
+  isSpec: "True"
+  name.vb: System.IConvertible.ToByte
+  fullName: System.Half.System.IConvertible.ToByte
+  nameWithType: Half.IConvertible.ToByte
+  nameWithType.vb: Half.System.IConvertible.ToByte
+- uid: System.Half.System#IConvertible#ToChar(System.IFormatProvider)
+  name: IConvertible.ToChar(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToChar_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToChar(System.IFormatProvider)
+  name.vb: System.IConvertible.ToChar(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToChar(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToChar(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToChar(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToChar*
+  name: IConvertible.ToChar
+  href: api/System.Half.html#System_Half_System_IConvertible_ToChar_
+  commentId: Overload:System.Half.System#IConvertible#ToChar
+  isSpec: "True"
+  name.vb: System.IConvertible.ToChar
+  fullName: System.Half.System.IConvertible.ToChar
+  nameWithType: Half.IConvertible.ToChar
+  nameWithType.vb: Half.System.IConvertible.ToChar
+- uid: System.Half.System#IConvertible#ToDateTime(System.IFormatProvider)
+  name: IConvertible.ToDateTime(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToDateTime_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToDateTime(System.IFormatProvider)
+  name.vb: System.IConvertible.ToDateTime(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToDateTime(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToDateTime(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToDateTime(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToDateTime*
+  name: IConvertible.ToDateTime
+  href: api/System.Half.html#System_Half_System_IConvertible_ToDateTime_
+  commentId: Overload:System.Half.System#IConvertible#ToDateTime
+  isSpec: "True"
+  name.vb: System.IConvertible.ToDateTime
+  fullName: System.Half.System.IConvertible.ToDateTime
+  nameWithType: Half.IConvertible.ToDateTime
+  nameWithType.vb: Half.System.IConvertible.ToDateTime
+- uid: System.Half.System#IConvertible#ToDecimal(System.IFormatProvider)
+  name: IConvertible.ToDecimal(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToDecimal_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToDecimal(System.IFormatProvider)
+  name.vb: System.IConvertible.ToDecimal(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToDecimal(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToDecimal(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToDecimal(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToDecimal*
+  name: IConvertible.ToDecimal
+  href: api/System.Half.html#System_Half_System_IConvertible_ToDecimal_
+  commentId: Overload:System.Half.System#IConvertible#ToDecimal
+  isSpec: "True"
+  name.vb: System.IConvertible.ToDecimal
+  fullName: System.Half.System.IConvertible.ToDecimal
+  nameWithType: Half.IConvertible.ToDecimal
+  nameWithType.vb: Half.System.IConvertible.ToDecimal
+- uid: System.Half.System#IConvertible#ToDouble(System.IFormatProvider)
+  name: IConvertible.ToDouble(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToDouble_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToDouble(System.IFormatProvider)
+  name.vb: System.IConvertible.ToDouble(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToDouble(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToDouble(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToDouble(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToDouble*
+  name: IConvertible.ToDouble
+  href: api/System.Half.html#System_Half_System_IConvertible_ToDouble_
+  commentId: Overload:System.Half.System#IConvertible#ToDouble
+  isSpec: "True"
+  name.vb: System.IConvertible.ToDouble
+  fullName: System.Half.System.IConvertible.ToDouble
+  nameWithType: Half.IConvertible.ToDouble
+  nameWithType.vb: Half.System.IConvertible.ToDouble
+- uid: System.Half.System#IConvertible#ToInt16(System.IFormatProvider)
+  name: IConvertible.ToInt16(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToInt16_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToInt16(System.IFormatProvider)
+  name.vb: System.IConvertible.ToInt16(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToInt16(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToInt16(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToInt16(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToInt16*
+  name: IConvertible.ToInt16
+  href: api/System.Half.html#System_Half_System_IConvertible_ToInt16_
+  commentId: Overload:System.Half.System#IConvertible#ToInt16
+  isSpec: "True"
+  name.vb: System.IConvertible.ToInt16
+  fullName: System.Half.System.IConvertible.ToInt16
+  nameWithType: Half.IConvertible.ToInt16
+  nameWithType.vb: Half.System.IConvertible.ToInt16
+- uid: System.Half.System#IConvertible#ToInt32(System.IFormatProvider)
+  name: IConvertible.ToInt32(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToInt32_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToInt32(System.IFormatProvider)
+  name.vb: System.IConvertible.ToInt32(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToInt32(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToInt32(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToInt32(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToInt32*
+  name: IConvertible.ToInt32
+  href: api/System.Half.html#System_Half_System_IConvertible_ToInt32_
+  commentId: Overload:System.Half.System#IConvertible#ToInt32
+  isSpec: "True"
+  name.vb: System.IConvertible.ToInt32
+  fullName: System.Half.System.IConvertible.ToInt32
+  nameWithType: Half.IConvertible.ToInt32
+  nameWithType.vb: Half.System.IConvertible.ToInt32
+- uid: System.Half.System#IConvertible#ToInt64(System.IFormatProvider)
+  name: IConvertible.ToInt64(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToInt64_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToInt64(System.IFormatProvider)
+  name.vb: System.IConvertible.ToInt64(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToInt64(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToInt64(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToInt64(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToInt64*
+  name: IConvertible.ToInt64
+  href: api/System.Half.html#System_Half_System_IConvertible_ToInt64_
+  commentId: Overload:System.Half.System#IConvertible#ToInt64
+  isSpec: "True"
+  name.vb: System.IConvertible.ToInt64
+  fullName: System.Half.System.IConvertible.ToInt64
+  nameWithType: Half.IConvertible.ToInt64
+  nameWithType.vb: Half.System.IConvertible.ToInt64
+- uid: System.Half.System#IConvertible#ToSByte(System.IFormatProvider)
+  name: IConvertible.ToSByte(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToSByte_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToSByte(System.IFormatProvider)
+  name.vb: System.IConvertible.ToSByte(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToSByte(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToSByte(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToSByte(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToSByte*
+  name: IConvertible.ToSByte
+  href: api/System.Half.html#System_Half_System_IConvertible_ToSByte_
+  commentId: Overload:System.Half.System#IConvertible#ToSByte
+  isSpec: "True"
+  name.vb: System.IConvertible.ToSByte
+  fullName: System.Half.System.IConvertible.ToSByte
+  nameWithType: Half.IConvertible.ToSByte
+  nameWithType.vb: Half.System.IConvertible.ToSByte
+- uid: System.Half.System#IConvertible#ToSingle(System.IFormatProvider)
+  name: IConvertible.ToSingle(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToSingle_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToSingle(System.IFormatProvider)
+  name.vb: System.IConvertible.ToSingle(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToSingle(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToSingle(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToSingle(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToSingle*
+  name: IConvertible.ToSingle
+  href: api/System.Half.html#System_Half_System_IConvertible_ToSingle_
+  commentId: Overload:System.Half.System#IConvertible#ToSingle
+  isSpec: "True"
+  name.vb: System.IConvertible.ToSingle
+  fullName: System.Half.System.IConvertible.ToSingle
+  nameWithType: Half.IConvertible.ToSingle
+  nameWithType.vb: Half.System.IConvertible.ToSingle
+- uid: System.Half.System#IConvertible#ToString(System.IFormatProvider)
+  name: IConvertible.ToString(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToString_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToString(System.IFormatProvider)
+  name.vb: System.IConvertible.ToString(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToString(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToString(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToString(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToString*
+  name: IConvertible.ToString
+  href: api/System.Half.html#System_Half_System_IConvertible_ToString_
+  commentId: Overload:System.Half.System#IConvertible#ToString
+  isSpec: "True"
+  name.vb: System.IConvertible.ToString
+  fullName: System.Half.System.IConvertible.ToString
+  nameWithType: Half.IConvertible.ToString
+  nameWithType.vb: Half.System.IConvertible.ToString
+- uid: System.Half.System#IConvertible#ToType(System.Type,System.IFormatProvider)
+  name: IConvertible.ToType(Type, IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToType_System_Type_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToType(System.Type,System.IFormatProvider)
+  name.vb: System.IConvertible.ToType(Type, IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToType(System.Type, System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToType(Type, IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToType(Type, IFormatProvider)
+- uid: System.Half.System#IConvertible#ToType*
+  name: IConvertible.ToType
+  href: api/System.Half.html#System_Half_System_IConvertible_ToType_
+  commentId: Overload:System.Half.System#IConvertible#ToType
+  isSpec: "True"
+  name.vb: System.IConvertible.ToType
+  fullName: System.Half.System.IConvertible.ToType
+  nameWithType: Half.IConvertible.ToType
+  nameWithType.vb: Half.System.IConvertible.ToType
+- uid: System.Half.System#IConvertible#ToUInt16(System.IFormatProvider)
+  name: IConvertible.ToUInt16(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToUInt16_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToUInt16(System.IFormatProvider)
+  name.vb: System.IConvertible.ToUInt16(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToUInt16(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToUInt16(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToUInt16(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToUInt16*
+  name: IConvertible.ToUInt16
+  href: api/System.Half.html#System_Half_System_IConvertible_ToUInt16_
+  commentId: Overload:System.Half.System#IConvertible#ToUInt16
+  isSpec: "True"
+  name.vb: System.IConvertible.ToUInt16
+  fullName: System.Half.System.IConvertible.ToUInt16
+  nameWithType: Half.IConvertible.ToUInt16
+  nameWithType.vb: Half.System.IConvertible.ToUInt16
+- uid: System.Half.System#IConvertible#ToUInt32(System.IFormatProvider)
+  name: IConvertible.ToUInt32(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToUInt32_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToUInt32(System.IFormatProvider)
+  name.vb: System.IConvertible.ToUInt32(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToUInt32(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToUInt32(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToUInt32(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToUInt32*
+  name: IConvertible.ToUInt32
+  href: api/System.Half.html#System_Half_System_IConvertible_ToUInt32_
+  commentId: Overload:System.Half.System#IConvertible#ToUInt32
+  isSpec: "True"
+  name.vb: System.IConvertible.ToUInt32
+  fullName: System.Half.System.IConvertible.ToUInt32
+  nameWithType: Half.IConvertible.ToUInt32
+  nameWithType.vb: Half.System.IConvertible.ToUInt32
+- uid: System.Half.System#IConvertible#ToUInt64(System.IFormatProvider)
+  name: IConvertible.ToUInt64(IFormatProvider)
+  href: api/System.Half.html#System_Half_System_IConvertible_ToUInt64_System_IFormatProvider_
+  commentId: M:System.Half.System#IConvertible#ToUInt64(System.IFormatProvider)
+  name.vb: System.IConvertible.ToUInt64(IFormatProvider)
+  fullName: System.Half.System.IConvertible.ToUInt64(System.IFormatProvider)
+  nameWithType: Half.IConvertible.ToUInt64(IFormatProvider)
+  nameWithType.vb: Half.System.IConvertible.ToUInt64(IFormatProvider)
+- uid: System.Half.System#IConvertible#ToUInt64*
+  name: IConvertible.ToUInt64
+  href: api/System.Half.html#System_Half_System_IConvertible_ToUInt64_
+  commentId: Overload:System.Half.System#IConvertible#ToUInt64
+  isSpec: "True"
+  name.vb: System.IConvertible.ToUInt64
+  fullName: System.Half.System.IConvertible.ToUInt64
+  nameWithType: Half.IConvertible.ToUInt64
+  nameWithType.vb: Half.System.IConvertible.ToUInt64
+- uid: System.Half.ToHalf(System.Byte[],System.Int32)
+  name: ToHalf(Byte[], Int32)
+  href: api/System.Half.html#System_Half_ToHalf_System_Byte___System_Int32_
+  commentId: M:System.Half.ToHalf(System.Byte[],System.Int32)
+  name.vb: ToHalf(Byte(), Int32)
+  fullName: System.Half.ToHalf(System.Byte[], System.Int32)
+  fullName.vb: System.Half.ToHalf(System.Byte(), System.Int32)
+  nameWithType: Half.ToHalf(Byte[], Int32)
+  nameWithType.vb: Half.ToHalf(Byte(), Int32)
+- uid: System.Half.ToHalf(System.UInt16,System.Int16,System.UInt16)
+  name: ToHalf(UInt16, Int16, UInt16)
+  href: api/System.Half.html#System_Half_ToHalf_System_UInt16_System_Int16_System_UInt16_
+  commentId: M:System.Half.ToHalf(System.UInt16,System.Int16,System.UInt16)
+  fullName: System.Half.ToHalf(System.UInt16, System.Int16, System.UInt16)
+  nameWithType: Half.ToHalf(UInt16, Int16, UInt16)
+- uid: System.Half.ToHalf*
+  name: ToHalf
+  href: api/System.Half.html#System_Half_ToHalf_
+  commentId: Overload:System.Half.ToHalf
+  isSpec: "True"
+  fullName: System.Half.ToHalf
+  nameWithType: Half.ToHalf
+- uid: System.Half.ToString
+  name: ToString()
+  href: api/System.Half.html#System_Half_ToString
+  commentId: M:System.Half.ToString
+  fullName: System.Half.ToString()
+  nameWithType: Half.ToString()
+- uid: System.Half.ToString(System.IFormatProvider)
+  name: ToString(IFormatProvider)
+  href: api/System.Half.html#System_Half_ToString_System_IFormatProvider_
+  commentId: M:System.Half.ToString(System.IFormatProvider)
+  fullName: System.Half.ToString(System.IFormatProvider)
+  nameWithType: Half.ToString(IFormatProvider)
+- uid: System.Half.ToString(System.String)
+  name: ToString(String)
+  href: api/System.Half.html#System_Half_ToString_System_String_
+  commentId: M:System.Half.ToString(System.String)
+  fullName: System.Half.ToString(System.String)
+  nameWithType: Half.ToString(String)
+- uid: System.Half.ToString(System.String,System.IFormatProvider)
+  name: ToString(String, IFormatProvider)
+  href: api/System.Half.html#System_Half_ToString_System_String_System_IFormatProvider_
+  commentId: M:System.Half.ToString(System.String,System.IFormatProvider)
+  fullName: System.Half.ToString(System.String, System.IFormatProvider)
+  nameWithType: Half.ToString(String, IFormatProvider)
+- uid: System.Half.ToString*
+  name: ToString
+  href: api/System.Half.html#System_Half_ToString_
+  commentId: Overload:System.Half.ToString
+  isSpec: "True"
+  fullName: System.Half.ToString
+  nameWithType: Half.ToString
+- uid: System.Half.TryFormat(System.Span{System.Char},System.Int32@,System.ReadOnlySpan{System.Char},System.IFormatProvider)
+  name: TryFormat(Span<Char>, out Int32, ReadOnlySpan<Char>, IFormatProvider)
+  href: api/System.Half.html#System_Half_TryFormat_System_Span_System_Char__System_Int32__System_ReadOnlySpan_System_Char__System_IFormatProvider_
+  commentId: M:System.Half.TryFormat(System.Span{System.Char},System.Int32@,System.ReadOnlySpan{System.Char},System.IFormatProvider)
+  name.vb: TryFormat(Span(Of Char), ByRef Int32, ReadOnlySpan(Of Char), IFormatProvider)
+  fullName: System.Half.TryFormat(System.Span<System.Char>, out System.Int32, System.ReadOnlySpan<System.Char>, System.IFormatProvider)
+  fullName.vb: System.Half.TryFormat(System.Span(Of System.Char), ByRef System.Int32, System.ReadOnlySpan(Of System.Char), System.IFormatProvider)
+  nameWithType: Half.TryFormat(Span<Char>, out Int32, ReadOnlySpan<Char>, IFormatProvider)
+  nameWithType.vb: Half.TryFormat(Span(Of Char), ByRef Int32, ReadOnlySpan(Of Char), IFormatProvider)
+- uid: System.Half.TryFormat*
+  name: TryFormat
+  href: api/System.Half.html#System_Half_TryFormat_
+  commentId: Overload:System.Half.TryFormat
+  isSpec: "True"
+  fullName: System.Half.TryFormat
+  nameWithType: Half.TryFormat
+- uid: System.Half.TryParse(System.ReadOnlySpan{System.Char},System.Globalization.NumberStyles,System.IFormatProvider,System.Half@)
+  name: TryParse(ReadOnlySpan<Char>, NumberStyles, IFormatProvider, out Half)
+  href: api/System.Half.html#System_Half_TryParse_System_ReadOnlySpan_System_Char__System_Globalization_NumberStyles_System_IFormatProvider_System_Half__
+  commentId: M:System.Half.TryParse(System.ReadOnlySpan{System.Char},System.Globalization.NumberStyles,System.IFormatProvider,System.Half@)
+  name.vb: TryParse(ReadOnlySpan(Of Char), NumberStyles, IFormatProvider, ByRef Half)
+  fullName: System.Half.TryParse(System.ReadOnlySpan<System.Char>, System.Globalization.NumberStyles, System.IFormatProvider, out System.Half)
+  fullName.vb: System.Half.TryParse(System.ReadOnlySpan(Of System.Char), System.Globalization.NumberStyles, System.IFormatProvider, ByRef System.Half)
+  nameWithType: Half.TryParse(ReadOnlySpan<Char>, NumberStyles, IFormatProvider, out Half)
+  nameWithType.vb: Half.TryParse(ReadOnlySpan(Of Char), NumberStyles, IFormatProvider, ByRef Half)
+- uid: System.Half.TryParse(System.String,System.Globalization.NumberStyles,System.IFormatProvider,System.Half@)
+  name: TryParse(String, NumberStyles, IFormatProvider, out Half)
+  href: api/System.Half.html#System_Half_TryParse_System_String_System_Globalization_NumberStyles_System_IFormatProvider_System_Half__
+  commentId: M:System.Half.TryParse(System.String,System.Globalization.NumberStyles,System.IFormatProvider,System.Half@)
+  name.vb: TryParse(String, NumberStyles, IFormatProvider, ByRef Half)
+  fullName: System.Half.TryParse(System.String, System.Globalization.NumberStyles, System.IFormatProvider, out System.Half)
+  fullName.vb: System.Half.TryParse(System.String, System.Globalization.NumberStyles, System.IFormatProvider, ByRef System.Half)
+  nameWithType: Half.TryParse(String, NumberStyles, IFormatProvider, out Half)
+  nameWithType.vb: Half.TryParse(String, NumberStyles, IFormatProvider, ByRef Half)
+- uid: System.Half.TryParse(System.String,System.Half@)
+  name: TryParse(String, out Half)
+  href: api/System.Half.html#System_Half_TryParse_System_String_System_Half__
+  commentId: M:System.Half.TryParse(System.String,System.Half@)
+  name.vb: TryParse(String, ByRef Half)
+  fullName: System.Half.TryParse(System.String, out System.Half)
+  fullName.vb: System.Half.TryParse(System.String, ByRef System.Half)
+  nameWithType: Half.TryParse(String, out Half)
+  nameWithType.vb: Half.TryParse(String, ByRef Half)
+- uid: System.Half.TryParse*
+  name: TryParse
+  href: api/System.Half.html#System_Half_TryParse_
+  commentId: Overload:System.Half.TryParse
+  isSpec: "True"
+  fullName: System.Half.TryParse
+  nameWithType: Half.TryParse
