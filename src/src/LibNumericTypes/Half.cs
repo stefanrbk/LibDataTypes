@@ -12,11 +12,6 @@ namespace System
     {
         #region [ Members ]
 
-        // Constants
-        public const ushort SignMask = 0x8000;
-        public const ushort ExponentMask = 0x7c00;
-        public const ushort MantissaMask = 0x03ff;
-
         // Fields
 
         [DebuggerBrowsable(DebuggerBrowsableState.Never)]
@@ -344,15 +339,6 @@ namespace System
 
         #region [ Static Methods ]
 
-        public ushort GetSign() =>
-            (ushort)((this._value & SignMask) >> 15);
-
-        public short GetExponent() =>
-            (short)(((this._value & ExponentMask) >> 10) - 15);
-
-        public ushort GetMantissa() =>
-            (ushort)((this._value & MantissaMask) << 6);
-
         public static byte[] GetBytes(Half value) =>
             BitConverter.GetBytes(value._value);
 
@@ -604,7 +590,7 @@ namespace System
         private static Half Negate(Half half) =>
             new Half((ushort)(half._value ^ 0x8000));
 
-        public static Half Abs(Half half) =>
+        internal static Half Abs(Half half) =>
             new Half((ushort)(half._value & 0x7fff));
 
         #endregion
