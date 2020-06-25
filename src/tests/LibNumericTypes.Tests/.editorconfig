@@ -1,0 +1,23 @@
+# C# files
+[*.cs]
+
+#### Naming styles ####
+
+# Naming rules
+
+dotnet_naming_rule.non_private_methods_should_be_lowercase_with_underscores.severity = suggestion
+dotnet_naming_rule.non_private_methods_should_be_lowercase_with_underscores.symbols = non_private_methods
+dotnet_naming_rule.non_private_methods_should_be_lowercase_with_underscores.style = lowercase_with_underscores
+
+# Symbol specifications
+
+dotnet_naming_symbols.non_private_methods.applicable_kinds = method
+dotnet_naming_symbols.non_private_methods.applicable_accessibilities = public, internal, protected, protected_internal
+dotnet_naming_symbols.non_private_methods.required_modifiers = 
+
+# Naming styles
+
+dotnet_naming_style.lowercase_with_underscores.required_prefix = 
+dotnet_naming_style.lowercase_with_underscores.required_suffix = 
+dotnet_naming_style.lowercase_with_underscores.word_separator = _
+dotnet_naming_style.lowercase_with_underscores.capitalization = all_lower

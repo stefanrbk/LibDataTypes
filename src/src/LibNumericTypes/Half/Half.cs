@@ -12,6 +12,18 @@ namespace System
     {
         #region [ Members ]
 
+        // Constants
+
+        private const NumberStyles ParseReadOnlySpanNumberStyleDefault
+            = NumberStyles.AllowDecimalPoint
+            | NumberStyles.AllowExponent
+            | NumberStyles.AllowLeadingSign
+            | NumberStyles.AllowLeadingWhite
+            | NumberStyles.AllowThousands
+            | NumberStyles.AllowTrailingWhite
+            | NumberStyles.Float
+            | NumberStyles.Integer;
+
         // Fields
 
         [DebuggerBrowsable(DebuggerBrowsableState.Never)]
@@ -55,6 +67,7 @@ namespace System
                     (!IsNaN(this) && IsNaN(o)) => 1,
                 _ => 0
             };
+
         public override bool Equals(object obj) =>
             obj is Half num && Equals(num);
 
@@ -149,39 +162,41 @@ namespace System
 
         public static bool operator ==(Half left,
                                        Half right) =>
-            left._value == right._value;
+            !IsNaN(left) && !IsNaN(right) &&
+            left._value == right._value ||
+            (left.IsZero && right.IsZero);
 
         public static bool operator !=(Half left,
                                        Half right) =>
-            left._value != right._value;
+            !(left == right);
 
         public static bool operator <(Half left,
                                        Half right) =>
             // There are multiple values which satisfy "NaN".
             // If either are "NaN", then return false.
             !IsNaN(left) && !IsNaN(right) &&
-            left._value < right._value;
+            (float)left < right;
 
         public static bool operator >(Half left,
                                        Half right) =>
             // There are multiple values which satisfy "NaN".
             // If either are "NaN", then return false.
             !IsNaN(left) && !IsNaN(right) &&
-            left._value > right._value;
+            (float)left > right;
 
         public static bool operator <=(Half left,
                                        Half right) =>
             // There are multiple values which satisfy "NaN".
             // If either are "NaN", then return false.
             !IsNaN(left) && !IsNaN(right) &&
-            left._value <= right._value;
+            (float)left <= right;
 
         public static bool operator >=(Half left,
                                        Half right) =>
             // There are multiple values which satisfy "NaN".
             // If either are "NaN", then return false.
             !IsNaN(left) && !IsNaN(right) &&
-            left._value >= right._value;
+            (float)left >= right;
 
         #endregion
 
@@ -361,22 +376,19 @@ namespace System
         public static bool IsNormal(Half half) =>
             !IsSubnormal(half) &&
             !IsInfinity(half) &&
-            !IsNaN(half);
+            !IsNaN(half) &&
+            (half._value & 0x7fff) != 0;
 
         public static bool IsPositiveInfinity(Half half) =>
             half._value == 0x7c00;
 
         public static bool IsSubnormal(Half half) =>
-            (half._value & 0x7c00) == 0;
+            (half._value & 0x7c00) == 0 &&
+            (half._value & 0x03ff) != 0;
 
         public static Half ToHalf(byte[] value,
                                   int startIndex) =>
             new Half(BitConverter.ToUInt16(value, startIndex));
-
-        public static Half ToHalf(ushort sign,
-                                  short exponent,
-                                  ushort mantissa) =>
-            new Half((ushort)((sign << 15) | (ushort)((exponent + 15) << 10) | (mantissa >> 6)));
 
         public static Half Parse(string value) =>
             (Half)Single.Parse(value, CultureInfo.CurrentCulture);
@@ -395,14 +407,7 @@ namespace System
             (Half)Single.Parse(value, style, formatProvider);
 
         public static Half Parse(ReadOnlySpan<char> value,
-                                 NumberStyles style = NumberStyles.AllowDecimalPoint |
-                                                      NumberStyles.AllowExponent |
-                                                      NumberStyles.AllowLeadingSign |
-                                                      NumberStyles.AllowLeadingWhite |
-                                                      NumberStyles.AllowThousands |
-                                                      NumberStyles.AllowTrailingWhite |
-                                                      NumberStyles.Float |
-                                                      NumberStyles.Integer,
+                                 NumberStyles style = ParseReadOnlySpanNumberStyleDefault,
                                  IFormatProvider formatProvider = default) =>
             (Half)Single.Parse(value, style, formatProvider);
 
@@ -592,6 +597,9 @@ namespace System
 
         internal static Half Abs(Half half) =>
             new Half((ushort)(half._value & 0x7fff));
+
+        private bool IsZero =>
+            this._value == 0 || this._value == 0x8000;
 
         #endregion
     }
